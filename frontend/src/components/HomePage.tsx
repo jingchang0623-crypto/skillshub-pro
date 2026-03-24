@@ -1,33 +1,24 @@
 'use client';
 
 import { useState, useMemo } from 'react';
-import { Skill, Platform } from '@/types/skill';
+import { Skill, SkillsData } from '@/types/skill';
 import SkillCard from '@/components/SkillCard';
 import SearchBar from '@/components/SearchBar';
-import PlatformFilter from '@/components/PlatformFilter';
-import Pagination from '@/components/Pagination';
 
 const ITEMS_PER_PAGE = 12;
 
 interface HomePageProps {
   skills: Skill[];
-  platformStats: Record<Platform, number>;
+  metadata: SkillsData['metadata'];
 }
 
-export default function HomePage({ skills, platformStats }: HomePageProps) {
+export default function HomePage({ skills, metadata }: HomePageProps) {
   const [searchQuery, setSearchQuery] = useState('');
-  const [selectedPlatform, setSelectedPlatform] = useState<Platform | 'all'>('all');
   const [currentPage, setCurrentPage] = useState(1);
 
   // 过滤和搜索
   const filteredSkills = useMemo(() => {
     return skills.filter((skill) => {
-      // 平台筛选
-      if (selectedPlatform !== 'all' && skill.platform !== selectedPlatform) {
-        return false;
-      }
-
-      // 搜索
       if (searchQuery) {
         const query = searchQuery.toLowerCase();
         return (
@@ -36,10 +27,9 @@ export default function HomePage({ skills, platformStats }: HomePageProps) {
           skill.tags.some((tag) => tag.toLowerCase().includes(query))
         );
       }
-
       return true;
     });
-  }, [skills, selectedPlatform, searchQuery]);
+  }, [skills, searchQuery]);
 
   // 分页
   const totalPages = Math.ceil(filteredSkills.length / ITEMS_PER_PAGE);
@@ -48,14 +38,8 @@ export default function HomePage({ skills, platformStats }: HomePageProps) {
     return filteredSkills.slice(start, start + ITEMS_PER_PAGE);
   }, [filteredSkills, currentPage]);
 
-  // 重置页码
   const handleSearchChange = (query: string) => {
     setSearchQuery(query);
-    setCurrentPage(1);
-  };
-
-  const handlePlatformChange = (platform: Platform | 'all') => {
-    setSelectedPlatform(platform);
     setCurrentPage(1);
   };
 
@@ -68,9 +52,13 @@ export default function HomePage({ skills, platformStats }: HomePageProps) {
             <h1 className="text-4xl font-bold bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 bg-clip-text text-transparent mb-2">
               SkillsHub Pro
             </h1>
-            <p className="text-gray-400 text-sm">
-              整合 Skills.sh、ClawHub、Coze、Tencent SkillHub 四大平台的技能聚合平台
+            <p className="text-gray-400 text-sm mb-2">
+              全网技能聚合平台 - 一站式发现、比较、评价
             </p>
+            <div className="text-xs text-gray-500">
+              共收录 <span className="text-white">{metadata.total_skills}</span> 个技能 · 
+              更新于 {new Date(metadata.last_updated).toLocaleString()}
+            </div>
           </div>
           <SearchBar value={searchQuery} onChange={handleSearchChange} />
         </div>
@@ -78,15 +66,6 @@ export default function HomePage({ skills, platformStats }: HomePageProps) {
 
       {/* Main Content */}
       <main className="container mx-auto px-4 py-8">
-        {/* Platform Filter */}
-        <div className="mb-8">
-          <PlatformFilter
-            platforms={platformStats}
-            selected={selectedPlatform}
-            onChange={handlePlatformChange}
-          />
-        </div>
-
         {/* Results Count */}
         <div className="text-center mb-6 text-gray-400 text-sm">
           找到 <span className="text-white font-medium">{filteredSkills.length}</span> 个技能
@@ -96,22 +75,38 @@ export default function HomePage({ skills, platformStats }: HomePageProps) {
         {paginatedSkills.length > 0 ? (
           <>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-              {paginatedSkills.map((skill) => (
-                <SkillCard key={skill.id} skill={skill} />
+              {paginatedSkills.map((skill, index) => (
+                <SkillCard key={skill.name + index} skill={skill} />
               ))}
             </div>
 
             {/* Pagination */}
-            <Pagination
-              currentPage={currentPage}
-              totalPages={totalPages}
-              onPageChange={setCurrentPage}
-            />
+            {totalPages > 1 && (
+              <div className="flex justify-center gap-2 mt-8">
+                <button
+                  onClick={() => setCurrentPage(p => Math.max(1, p - 1))}
+                  disabled={currentPage === 1}
+                  className="px-4 py-2 bg-gray-800 text-gray-300 rounded-lg disabled:opacity-50 disabled:cursor-not-allowed hover:bg-gray-700"
+                >
+                  上一页
+                </button>
+                <span className="px-4 py-2 text-gray-400">
+                  {currentPage} / {totalPages}
+                </span>
+                <button
+                  onClick={() => setCurrentPage(p => Math.min(totalPages, p + 1))}
+                  disabled={currentPage === totalPages}
+                  className="px-4 py-2 bg-gray-800 text-gray-300 rounded-lg disabled:opacity-50 disabled:cursor-not-allowed hover:bg-gray-700"
+                >
+                  下一页
+                </button>
+              </div>
+            )}
           </>
         ) : (
           <div className="text-center py-16">
             <div className="text-gray-500 text-lg mb-2">未找到匹配的技能</div>
-            <div className="text-gray-600 text-sm">尝试调整搜索条件或平台筛选</div>
+            <div className="text-gray-600 text-sm">尝试调整搜索条件</div>
           </div>
         )}
       </main>
@@ -123,7 +118,7 @@ export default function HomePage({ skills, platformStats }: HomePageProps) {
             Powered by Next.js + Tailwind CSS
           </div>
           <div>
-            © 2024 SkillsHub Pro · 
+            © 2026 SkillsHub Pro · 
             <a href="https://skillsagent.org" className="text-blue-400 hover:text-blue-300 ml-1">
               skillsagent.org
             </a>

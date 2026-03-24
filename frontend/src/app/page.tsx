@@ -4,5 +4,5 @@ import HomePage from '@/components/HomePage';
 export default async function Home() {
   const data = await getSkillsData();
   
-  return <HomePage skills={data.skills} platformStats={data.metadata.platforms} />;
+  return <HomePage skills={data.skills} metadata={data.metadata} />;
 }
