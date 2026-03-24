@@ -1,16 +1,5 @@
 [
   {
-    "id": "clawhub-a45da96d",
-    "name": "System",
-    "description": "",
-    "source": "clawhub.ai",
-    "url": "https://clawhub.ai/skill/a45da96d",
-    "tags": [],
-    "stars": 0,
-    "downloads": 0,
-    "updated_at": "2026-03-24T23:59:54.673855"
-  },
-  {
     "id": "xiaping-8ccc5b0c-3a5f-4a3b-9158-8c822927b7dd",
     "name": "全网新闻聚合助手",
     "description": "全网科技/金融/AI深度新闻聚合助手，一站式覆盖28+高价值信源。支持Hacker News、GitHub Trending、HuggingFace Papers、华尔街见闻、微博热搜等。内置场景化早报生成（综合/财经/科技/AI深度），支持智能深度阅读(Deep Fetch)。专为OpenClaw/Code Agent深度定制，即插即用，零配置开箱即用。",
@@ -27,8 +16,8 @@
       "HackerNews",
       "开源"
     ],
-    "stars": 0,
-    "downloads": 3693,
+    "stars": 4.94,
+    "downloads": 3698,
     "updated_at": "2026-03-21T15:44:09.039+08:00"
   },
   {
@@ -45,8 +34,8 @@
       "港股",
       "美股"
     ],
-    "stars": 0,
-    "downloads": 2392,
+    "stars": 4.61,
+    "downloads": 2397,
     "updated_at": "2026-03-21T16:18:45.159+08:00"
   },
   {
@@ -60,8 +49,8 @@
       "机器学习",
       "Agent"
     ],
-    "stars": 0,
-    "downloads": 2256,
+    "stars": 4.83,
+    "downloads": 2263,
     "updated_at": "2026-03-05T22:45:35.709+08:00"
   },
   {
@@ -77,8 +66,8 @@
       "润色",
       "写作辅助"
     ],
-    "stars": 0,
-    "downloads": 1950,
+    "stars": 4.91,
+    "downloads": 1954,
     "updated_at": "2026-03-15T14:16:22.902+08:00"
   },
   {
@@ -97,9 +86,9 @@
       "周报",
       "月报"
     ],
-    "stars": 0,
+    "stars": 4.89,
     "downloads": 1698,
-    "updated_at": "2026-03-24T23:59:56.239789"
+    "updated_at": null
   },
   {
     "id": "xiaping-9513f439-7963-445a-89e5-0ee8d4f471c1",
@@ -113,8 +102,8 @@
       "coze",
       "信息检索"
     ],
-    "stars": 0,
-    "downloads": 1402,
+    "stars": 4.85,
+    "downloads": 1406,
     "updated_at": "2026-03-15T14:15:56.899+08:00"
   },
   {
@@ -130,8 +119,8 @@
       "project",
       "todo"
     ],
-    "stars": 0,
-    "downloads": 1212,
+    "stars": 4.95,
+    "downloads": 1214,
     "updated_at": "2026-03-13T20:44:49.943+08:00"
   },
   {
@@ -151,7 +140,7 @@
       "效率",
       "不偷懒"
     ],
-    "stars": 0,
+    "stars": 4.85,
     "downloads": 1017,
     "updated_at": "2026-03-13T11:08:55.996+08:00"
   },
@@ -168,9 +157,9 @@
       "传统",
       "周易"
     ],
-    "stars": 0,
-    "downloads": 808,
-    "updated_at": "2026-03-24T23:59:56.239809"
+    "stars": 4.67,
+    "downloads": 810,
+    "updated_at": null
   },
   {
     "id": "xiaping-47423ebf-5e54-4a70-8fb9-b4227bb90e6e",
@@ -185,7 +174,7 @@
       "忙闲查询",
       "官方出品"
     ],
-    "stars": 0,
+    "stars": 4.85,
     "downloads": 787,
     "updated_at": "2026-03-11T21:13:42.935+08:00"
   },
@@ -201,9 +190,9 @@
       "设计",
       "小红书"
     ],
-    "stars": 0,
-    "downloads": 783,
-    "updated_at": "2026-03-24T23:59:56.239813"
+    "stars": 4.78,
+    "downloads": 785,
+    "updated_at": null
   },
   {
     "id": "xiaping-0af78425-64f5-4770-a95b-1bedc11857d4",
@@ -217,8 +206,3876 @@
       "爬虫",
       "自动化"
     ],
-    "stars": 0,
-    "downloads": 650,
+    "stars": 4.86,
+    "downloads": 651,
     "updated_at": "2026-03-10T10:51:39.841+08:00"
+  },
+  {
+    "id": "xiaping-14ff5aad-4df3-4b33-ba0b-6cc217cdb939",
+    "name": "Agent记忆系统搭建指南",
+    "description": "面向 OpenClaw / Codex 的 Agent 长期记忆搭建指南，覆盖 MEMORY.md 三层架构、SESSION-STATE 恢复、working-buffer 缓冲、每日笔记蒸馏与 Obsidian 归档；OpenViking 仅作为可选增强，不是硬依赖。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/14ff5aad-4df3-4b33-ba0b-6cc217cdb939",
+    "tags": [
+      "Agent",
+      "长期记忆",
+      "Obsidian",
+      "OpenClaw",
+      "Codex",
+      "MEMORY.md",
+      "SESSION-STATE",
+      "working-buffer",
+      "OpenViking",
+      "每日笔记",
+      "记忆蒸馏"
+    ],
+    "stars": 4.98,
+    "downloads": 625,
+    "updated_at": "2026-03-24T20:21:42.444+08:00"
+  },
+  {
+    "id": "xiaping-53031b2d-95bc-4a45-9e6d-c1cd2fdef2c2",
+    "name": "李诞七步写作框架",
+    "description": "李诞口述教学的七步写作框架，帮助你将复杂概念写得深入浅出。包含开场故事、错误答案、正确答案、触类旁通、对比冲击、结尾升华、延伸阅读七个步骤。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/53031b2d-95bc-4a45-9e6d-c1cd2fdef2c2",
+    "tags": [
+      "写作",
+      "框架",
+      "李诞",
+      "知识普及",
+      "内容创作"
+    ],
+    "stars": 4.87,
+    "downloads": 601,
+    "updated_at": "2026-03-24T16:10:33.573+08:00"
+  },
+  {
+    "id": "xiaping-4105b48c-0ca9-455c-8b9d-1784f427d0d2",
+    "name": "文案写作",
+    "description": "营销文案撰写技能。为主页、落地页、产品页、活动页等撰写高转化文案。提供创意方向、A/B测试建议和转化率优化指导。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/4105b48c-0ca9-455c-8b9d-1784f427d0d2",
+    "tags": [
+      "文案",
+      "营销",
+      "转化率"
+    ],
+    "stars": 4.53,
+    "downloads": 553,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-9ccef9a2-a690-40ae-8c1f-974b9585f89e",
+    "name": "封面图片生成",
+    "description": "文章封面图片生成技能。支持5种尺寸（电影宽屏、宽屏、方形）和多种渲染风格，适合文章和视频封面设计制作。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/9ccef9a2-a690-40ae-8c1f-974b9585f89e",
+    "tags": [
+      "营销"
+    ],
+    "stars": 4.75,
+    "downloads": 521,
+    "updated_at": "2026-03-06T17:49:54.91+08:00"
+  },
+  {
+    "id": "xiaping-52196eb5-d68c-4d74-aee4-79d125bcaa59",
+    "name": "飞书多维表格-官方",
+    "description": "【飞书官方出品】飞书多维表格（Bitable）的创建、查询、编辑和管理工具。包含27种字段类型支持、高级筛选、批量操作和视图管理。适合需要管理数据表、记录、字段的用户。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/52196eb5-d68c-4d74-aee4-79d125bcaa59",
+    "tags": [
+      "飞书",
+      "多维表格",
+      "Bitable",
+      "数据管理",
+      "官方出品"
+    ],
+    "stars": 4.91,
+    "downloads": 489,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-731e9e25-2246-49a7-a171-ef5b450a906b",
+    "name": "飞书紧急提醒",
+    "description": "通过飞书发送加急消息提醒用户。支持应用内加急和电话加急（真正打电话到手机）。适合需要紧急通知的场景，如会议提醒、重要事项通知等。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/731e9e25-2246-49a7-a171-ef5b450a906b",
+    "tags": [
+      "飞书",
+      "消息提醒",
+      "电话",
+      "紧急通知"
+    ],
+    "stars": 4.87,
+    "downloads": 470,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-23051889-089c-42a0-819b-fe894de45963",
+    "name": "Skill 安全扫描",
+    "description": "专业的 Agent Skill 安全扫描工具，在 Skill 上线前或更新时进行安全审计，检测数据外泄、权限提升、供应链风险、提示词注入四大类风险，支持 Semgrep 白盒扫描，输出结构化安全报告并给出修复建议",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/23051889-089c-42a0-819b-fe894de45963",
+    "tags": [
+      "安全",
+      "审计",
+      "agent",
+      "风控",
+      "扫描"
+    ],
+    "stars": 4.77,
+    "downloads": 417,
+    "updated_at": "2026-03-23T00:16:45.355+08:00"
+  },
+  {
+    "id": "xiaping-5c4461de-5916-480e-be93-8f8bd5475561",
+    "name": "内容趋势研究",
+    "description": "跨10+平台的内容趋势分析工具。识别热门话题、分析用户意图、发现内容缺口，生成数据驱动的文章大纲。涵盖Google Analytics、Trends、Substack、Medium、Reddit、YouTube等。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/5c4461de-5916-480e-be93-8f8bd5475561",
+    "tags": [
+      "内容运营",
+      "趋势",
+      "数据分析",
+      "选题"
+    ],
+    "stars": 4.71,
+    "downloads": 398,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-bf0c55fe-9d85-4640-9437-34ecdc8cc63f",
+    "name": "MBTI测试",
+    "description": "专业的MBTI人格测试工具，支持20/40/93题版本，包含职业规划建议和性格分析。适合想了解自己性格特征的用户。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/bf0c55fe-9d85-4640-9437-34ecdc8cc63f",
+    "tags": [
+      "MBTI",
+      "心理测试",
+      "人格",
+      "性格分析"
+    ],
+    "stars": 4.69,
+    "downloads": 315,
+    "updated_at": "2026-03-06T18:43:29.992+08:00"
+  },
+  {
+    "id": "xiaping-ec0e053b-eada-4c5c-8c90-7a2b14a01899",
+    "name": "深度阅读分析",
+    "description": "对文章进行深度分析和解读，提取核心观点、关键数据和深度洞见",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/ec0e053b-eada-4c5c-8c90-7a2b14a01899",
+    "tags": [
+      "阅读",
+      "分析",
+      "学习",
+      "研究"
+    ],
+    "stars": 4.54,
+    "downloads": 311,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-4d044d1e-16e9-4e06-8e73-9fac22801353",
+    "name": "微信公众号文案写作助手",
+    "description": "快速生成高质量的微信公众号文案，包含热点选题检索、以半佛仙人风格创作文章、爆款标题生成、1500字文章创作、优质封面和配图生成、自动排版优化、HTML生成",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/4d044d1e-16e9-4e06-8e73-9fac22801353",
+    "tags": [
+      "公众号",
+      "文案写作",
+      "自媒体",
+      "排版",
+      "爆款"
+    ],
+    "stars": 4.92,
+    "downloads": 304,
+    "updated_at": "2026-03-18T21:34:11.823+08:00"
+  },
+  {
+    "id": "xiaping-217770c4-e175-485a-847b-a83faab0aa44",
+    "name": "多Agent团队创建器",
+    "description": "【小遇AI实验室荣誉出品】自动创建 Agent 团队。提供多种预设模板（如项目管理团队，开发团队等），也可自定义 agent 列表。支持快速搭建多 agent 工作流，自动配置 workspace、飞书绑定、模型。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/217770c4-e175-485a-847b-a83faab0aa44",
+    "tags": [
+      "OpenClaw",
+      "Agent",
+      "团队",
+      "自动化"
+    ],
+    "stars": 5.0,
+    "downloads": 303,
+    "updated_at": "2026-03-19T09:14:45.308+08:00"
+  },
+  {
+    "id": "xiaping-0c3dafaf-9052-4524-bbd9-cc420b2b90eb",
+    "name": "Agent 智商测试",
+    "description": "全自动评测AI Agent的编程能力，随机抽取10道题含3道应用题",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/0c3dafaf-9052-4524-bbd9-cc420b2b90eb",
+    "tags": [
+      "评测",
+      "IQ",
+      "编程",
+      "测试",
+      "Agent"
+    ],
+    "stars": 4.83,
+    "downloads": 294,
+    "updated_at": "2026-03-22T19:13:25.797+08:00"
+  },
+  {
+    "id": "xiaping-fedee9f5-983b-4fb5-b312-58d3f781139c",
+    "name": "股票五步法分析",
+    "description": "基于长投学堂五步分析法的A股/港股/美股个股分析系统，涵盖公司基本面、未来成长性、估值分析到买卖决策的全流程，自动生成标准化分析报告并输出飞书文档。支持深度个股分析、投资决策支持、定期复盘跟踪。数据来源包括公司年报、券商研报、同花顺iFinD等。适用于股民、投资分析师和财务研究场景。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/fedee9f5-983b-4fb5-b312-58d3f781139c",
+    "tags": [
+      "股票",
+      "投资",
+      "财务分析",
+      "估值",
+      "基本面"
+    ],
+    "stars": 4.66,
+    "downloads": 292,
+    "updated_at": "2026-03-17T20:38:56.326+08:00"
+  },
+  {
+    "id": "xiaping-12b1f9b2-3521-4475-a7fe-39f78fd722a6",
+    "name": "飞书文档权限转移助手",
+    "description": "批量管理飞书文档权限，支持转移所有权、添加/移除协作者。适合团队文档交接、批量设置权限、项目归档等场景。支持云文档、表格、多维表格、知识库等多种类型。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/12b1f9b2-3521-4475-a7fe-39f78fd722a6",
+    "tags": [
+      "飞书",
+      "文档",
+      "权限",
+      "协作",
+      "批量操作"
+    ],
+    "stars": 4.96,
+    "downloads": 290,
+    "updated_at": "2026-03-09T23:47:12.777+08:00"
+  },
+  {
+    "id": "xiaping-24b211e9-ad9f-4938-a728-20aecd531f20",
+    "name": "飞书文档协作工作流",
+    "description": "端到端飞书文档协作工作流，支持创建/写入文档、读取/回复评论、评论驱动的文档编辑，完整的文档自动化解决方案。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/24b211e9-ad9f-4938-a728-20aecd531f20",
+    "tags": [
+      "飞书",
+      "文档",
+      "工作流",
+      "自动化"
+    ],
+    "stars": 4.87,
+    "downloads": 259,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-35134076-405e-4046-8ce7-f9a4cf0ef401",
+    "name": "工作流自动化引擎",
+    "description": "【小遇AI实验室荣誉出品】将多个🦞技能智能串联成自动化工作流引擎。支持自定义节点、触发条件（定时/Cron/事件驱动）、条件分支、循环执行和并行处理。适用于复杂任务自动化、数据管道编排、多步骤业务流程，大幅提升AI Agent工作效率。只需描述需求，即可自动生成完整工作流。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/35134076-405e-4046-8ce7-f9a4cf0ef401",
+    "tags": [
+      "自动化",
+      "效率",
+      "工作流"
+    ],
+    "stars": 4.66,
+    "downloads": 257,
+    "updated_at": "2026-03-21T20:37:25.051+08:00"
+  },
+  {
+    "id": "xiaping-f812f14b-7d23-4c74-ab4f-cc53edd57e70",
+    "name": "Coze网页抓取工具",
+    "description": "基于Coze SDK的强大网页内容抓取技能。支持网页/PDF/Office文档/电子书等多种格式，返回结构化的文本、图片和链接，支持Markdown/JSON/文本三种输出格式，即装即用零配置。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/f812f14b-7d23-4c74-ab4f-cc53edd57e70",
+    "tags": [
+      "抓取",
+      "网页",
+      "PDF解析",
+      "Office解析"
+    ],
+    "stars": 4.85,
+    "downloads": 252,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-c4c58d72-6da2-4892-bf8b-9e62ad80771e",
+    "name": "AI图像生成",
+    "description": "高质量的AI图像生成工具，支持2K/4K分辨率图像生成。基于先进的AI模型，能够根据文本描述生成精美的图像，支持多种风格和场景。适用于内容创作、广告设计和艺术创作。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/c4c58d72-6da2-4892-bf8b-9e62ad80771e",
+    "tags": [
+      "AI",
+      "图像",
+      "绘画",
+      "设计",
+      "创意"
+    ],
+    "stars": 4.24,
+    "downloads": 252,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-7bae76cc-39ba-4dd3-b8fe-1eacde06ce0c",
+    "name": "飞书任务-官方",
+    "description": "【飞书官方出品】飞书任务管理工具，支持创建、查询、更新、删除任务，管理任务清单，设置负责人、关注人、截止时间。适合需要任务管理和待办事项跟踪的用户使用。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/7bae76cc-39ba-4dd3-b8fe-1eacde06ce0c",
+    "tags": [
+      "飞书",
+      "任务",
+      "待办",
+      "任务管理",
+      "官方出品"
+    ],
+    "stars": 4.97,
+    "downloads": 250,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-15e7b5db-3b67-482e-bde8-722043505bb0",
+    "name": "三层记忆法",
+    "description": "OpenClaw Agent 开箱即用的三层持久化记忆管理方案，解决跨会话记忆断裂问题，经过实战验证。核心是三层架构：日常记录 → 长期精选 → 定期维护，文件作为唯一真相源，搭配心跳自动整理，彻底告别重启失忆。包含完整目录结构模板、使用指南、最佳实践，新手也能直接复用。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/15e7b5db-3b67-482e-bde8-722043505bb0",
+    "tags": [
+      "openclaw",
+      "memory",
+      "context",
+      "project",
+      "productivity"
+    ],
+    "stars": 4.88,
+    "downloads": 192,
+    "updated_at": "2026-03-19T11:13:38.009+08:00"
+  },
+  {
+    "id": "xiaping-ae2bd6c1-54d6-4ac3-a63e-af9cf0ca17ae",
+    "name": "飞书消息读取-官方",
+    "description": "【飞书官方出品】读取飞书群聊和单聊消息历史的工具，支持按时间范围查询消息。适合需要查看聊天记录、分析群消息、获取历史消息内容的用户使用。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/ae2bd6c1-54d6-4ac3-a63e-af9cf0ca17ae",
+    "tags": [
+      "飞书",
+      "消息",
+      "聊天记录",
+      "IM",
+      "官方出品"
+    ],
+    "stars": 4.93,
+    "downloads": 186,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-f72cfc6f-3cb7-438c-aa2a-48ba25b0fbfe",
+    "name": "PRD助手",
+    "description": "【Anthropic官方】编写结构化的产品需求文档(PRD)，包含问题陈述、用户故事、需求优先级和成功指标。适用于功能规格编写、定义验收标准或记录产品决策时使用。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/f72cfc6f-3cb7-438c-aa2a-48ba25b0fbfe",
+    "tags": [
+      "PRD",
+      "需求文档",
+      "功能规格",
+      "用户故事"
+    ],
+    "stars": 4.79,
+    "downloads": 175,
+    "updated_at": "2026-03-08T18:30:41.571+08:00"
+  },
+  {
+    "id": "xiaping-5557d087-52fd-4cf6-9776-465e54083a40",
+    "name": "学术雷达",
+    "description": "自动监控学术期刊、筛选论文、生成周报PDF的OpenClaw技能。支持监控PRL/JHEP/PRD/Nature Physics等顶刊，AI自动判断论文相关性，一键生成含DOI链接的周报。研究方向可自由定制，适合科研人员追踪领域进展。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/5557d087-52fd-4cf6-9776-465e54083a40",
+    "tags": [
+      "学术",
+      "论文",
+      "周报",
+      "OpenClaw",
+      "科研",
+      "PDF"
+    ],
+    "stars": 4.78,
+    "downloads": 175,
+    "updated_at": "2026-03-24T18:22:03.195+08:00"
+  },
+  {
+    "id": "xiaping-279aaa6b-e7dc-4fcf-a53b-1373fe9b9515",
+    "name": "Find Skills",
+    "description": "帮助用户发现和安装 agent skills。当用户询问如何做某事、寻找特定功能技能、或表达扩展能力需求时使用。支持通过 npx skills 命令搜索和安装技能。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/279aaa6b-e7dc-4fcf-a53b-1373fe9b9515",
+    "tags": [
+      "skills",
+      "find",
+      "search",
+      "install",
+      "npx"
+    ],
+    "stars": 4.53,
+    "downloads": 175,
+    "updated_at": "2026-03-17T20:39:41.872+08:00"
+  },
+  {
+    "id": "xiaping-a2e6d40a-354e-4e4e-9e51-9e52257ce035",
+    "name": "投资分析",
+    "description": "专业的投资分析工具，支持研报解读、财报分析、行业研究和投资建议生成。基于金融数据和深度分析，提供投行级别的分析报告。适用于个人投资者、机构投研和财经自媒体。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/a2e6d40a-354e-4e4e-9e51-9e52257ce035",
+    "tags": [
+      "投资",
+      "研报",
+      "财报",
+      "股票",
+      "金融"
+    ],
+    "stars": 4.52,
+    "downloads": 171,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-2abdc010-5f2e-4164-9ca9-80b3f7fdad36",
+    "name": "公文格式化大师",
+    "description": "严格遵循GB/T 9704-2012国家公文格式标准，支持请示、方案、附件等公文类型自动排版。具备中英文混排智能处理、空行规范验证、中文弯引号检查等高级功能。包含python-docx常见陷阱避坑指南，帮助AI代理快速生成符合国标的规范化公文文档。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/2abdc010-5f2e-4164-9ca9-80b3f7fdad36",
+    "tags": [
+      "公文",
+      "格式化",
+      "Word",
+      "国标",
+      "GB/T 9704"
+    ],
+    "stars": 4.94,
+    "downloads": 169,
+    "updated_at": "2026-03-17T16:02:36.502+08:00"
+  },
+  {
+    "id": "xiaping-a495584c-3e04-4a10-9f2d-fbac97e3fba8",
+    "name": "Tavily AI搜索",
+    "description": "专为AI优化的搜索引擎。返回结构化JSON数据，包含摘要、来源、相关度评分。RAG应用和知识库构建的必备工具，让AI应用拥有实时信息检索能力。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/a495584c-3e04-4a10-9f2d-fbac97e3fba8",
+    "tags": [
+      "tavily",
+      "自动化",
+      "API"
+    ],
+    "stars": 4.86,
+    "downloads": 164,
+    "updated_at": "2026-03-05T20:57:15.524+08:00"
+  },
+  {
+    "id": "xiaping-a423f1ba-7581-4627-a0fe-635ab5c84d56",
+    "name": "竞争分析",
+    "description": "竞争对手分析技能。进行功能对比矩阵、定位分析、战略建议，帮助制定竞争策略和市场份额分析。全面了解竞争格局。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/a423f1ba-7581-4627-a0fe-635ab5c84d56",
+    "tags": [
+      "营销"
+    ],
+    "stars": 4.96,
+    "downloads": 159,
+    "updated_at": "2026-03-06T17:49:56.573+08:00"
+  },
+  {
+    "id": "xiaping-919d8f49-a436-4ea1-ac64-c5adb637e515",
+    "name": "HTML转自媒体封面",
+    "description": "将HTML内容转换为图片，支持小红书、公众号等自媒体平台封面图生成。适合需要快速生成封面图、内容配图的场景。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/919d8f49-a436-4ea1-ac64-c5adb637e515",
+    "tags": [
+      "HTML",
+      "图片生成",
+      "封面",
+      "自媒体"
+    ],
+    "stars": 4.93,
+    "downloads": 148,
+    "updated_at": "2026-03-21T22:49:06.663+08:00"
+  },
+  {
+    "id": "xiaping-1e614950-4fa2-458e-a6f5-44d3b8f9378b",
+    "name": "麦当劳点餐",
+    "description": "帮助用户通过麦当劳MCP API完成外卖点餐。支持查询配送地址、优惠券、餐品列表、计算价格、创建订单、查询积分等功能。首次使用需配置Token。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/1e614950-4fa2-458e-a6f5-44d3b8f9378b",
+    "tags": [
+      "麦当劳",
+      "外卖",
+      "点餐",
+      "美食"
+    ],
+    "stars": 4.35,
+    "downloads": 144,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-b958a874-bb97-4fbb-abb2-42219e49e1cb",
+    "name": "飞书@人助手",
+    "description": "飞书@人正确姿势指南。解决飞书消息中@人不生效、格式错误等问题。提供正确的<at user_id=\"ou_xxx\"></at>格式，以及如何获取用户open_id的方法。适合需要在飞书群里@人的Agent使用。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/b958a874-bb97-4fbb-abb2-42219e49e1cb",
+    "tags": [
+      "飞书",
+      "Lark",
+      "@人",
+      "消息格式"
+    ],
+    "stars": 4.94,
+    "downloads": 135,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-5003342a-8c84-4402-b4d4-497f0dbad249",
+    "name": "营销心理学",
+    "description": "营销心理学技能。应用心理学原理、行为科学和认知偏差到营销中，显著提升说服力和转化率。适合所有营销场景。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/5003342a-8c84-4402-b4d4-497f0dbad249",
+    "tags": [
+      "心理学",
+      "营销",
+      "行为科学"
+    ],
+    "stars": 4.78,
+    "downloads": 130,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-76089c7e-93c1-4244-ba33-ec6c7133fa44",
+    "name": "A股实时盯盘助手",
+    "description": "使用新浪财经API获取A股实时行情，支持持仓盈亏计算、买卖点提醒。适合需要定时监控股票价格的Agent使用。可配置多只股票，自动计算盈亏百分比，达到预设买卖点时输出提醒。零配置开箱即用，支持定时任务集成。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/76089c7e-93c1-4244-ba33-ec6c7133fa44",
+    "tags": [
+      "股票",
+      "A股",
+      "监控",
+      "财经",
+      "盯盘",
+      "盈亏计算"
+    ],
+    "stars": 4.43,
+    "downloads": 129,
+    "updated_at": "2026-03-19T11:35:51.958+08:00"
+  },
+  {
+    "id": "xiaping-b270d4b3-d440-4b56-8f72-347029af64ea",
+    "name": "治愈系图文工坊",
+    "description": "从日常生活场景捕捉细腻瞬间，通过画面描述+金句文案创作治愈系图文作品。支持日常治愈、情感共鸣、生活哲思、小红书笔记等多种场景。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/b270d4b3-d440-4b56-8f72-347029af64ea",
+    "tags": [
+      "治愈系",
+      "图文",
+      "文案",
+      "小红书"
+    ],
+    "stars": 4.61,
+    "downloads": 127,
+    "updated_at": "2026-03-17T23:11:36.108+08:00"
+  },
+  {
+    "id": "xiaping-74630088-d8ba-40d1-908a-ccf61a7b7621",
+    "name": "旅行规划",
+    "description": "智能旅行规划助手。根据用户偏好和预算推荐行程、景点、美食、住宿和交通方式，生成完整旅行计划，让旅行更轻松。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/74630088-d8ba-40d1-908a-ccf61a7b7621",
+    "tags": [
+      "旅行",
+      "旅游",
+      "攻略",
+      "行程"
+    ],
+    "stars": 4.64,
+    "downloads": 126,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-9b59cf4d-b744-4176-8ea7-622297815437",
+    "name": "Smart Web Fetch",
+    "description": "【邪修抓取术】5层降级策略，零API零配置，专治各种反爬！传统web_fetch失败时的救急方案。按优先级尝试：markdown.new/（Cloudflare网站首选）→ defuddle.md/（一般网页）→ r.jina.ai/（终极备选）→ Scrapling爬虫（绕过反爬）→ Playwright动态渲染（最后手段）。无需申请任何API Key，开箱即用，让反爬机制形同虚设！",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/9b59cf4d-b744-4176-8ea7-622297815437",
+    "tags": [
+      "网页抓取",
+      "反爬",
+      "邪修",
+      "零配置",
+      "markdown.new",
+      "Scrapling",
+      "Playwright"
+    ],
+    "stars": 4.94,
+    "downloads": 124,
+    "updated_at": "2026-03-21T22:30:42.881+08:00"
+  },
+  {
+    "id": "xiaping-ef9a18bf-c23b-4148-b44d-28ca65fc220c",
+    "name": "飞书文档评论管理",
+    "description": "飞书文档评论的读取和回复工具，支持在飞书文档中高效协作。自动读取文档评论列表，智能回复指定评论，支持批量评论处理，大幅提升文档协作效率。适合需要频繁处理飞书文档评论的用户和团队。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/ef9a18bf-c23b-4148-b44d-28ca65fc220c",
+    "tags": [
+      "飞书",
+      "文档",
+      "评论",
+      "协作"
+    ],
+    "stars": 4.77,
+    "downloads": 121,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-40556aba-17e4-436e-9e4a-5c22df684965",
+    "name": "飞书故障排查-官方",
+    "description": "【飞书官方出品】飞书集成故障诊断和排查工具，帮助定位和解决常见问题。适合遇到飞书集成问题、需要排查错误、诊断连接问题的开发者和用户使用。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/40556aba-17e4-436e-9e4a-5c22df684965",
+    "tags": [
+      "飞书",
+      "故障排查",
+      "诊断",
+      "排错",
+      "官方出品"
+    ],
+    "stars": 4.76,
+    "downloads": 117,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-5921e68c-9513-43cb-be92-0cf61c1308c2",
+    "name": "竞争情报",
+    "description": "【Anthropic官方】研究竞争对手并生成交互式battlecard。输出包含可点击的竞争者卡片和对比矩阵的HTML文件。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/5921e68c-9513-43cb-be92-0cf61c1308c2",
+    "tags": [
+      "anthropic",
+      "official",
+      "sales",
+      "competitive"
+    ],
+    "stars": 4.88,
+    "downloads": 115,
+    "updated_at": "2026-03-08T18:33:03.18+08:00"
+  },
+  {
+    "id": "xiaping-b42663ba-5409-4843-89c6-3b51746b5c8e",
+    "name": "InStreet 社区互动助手",
+    "description": "高效参与 InStreet 社区的 Agent 技能。自动浏览热帖、智能评论互动、管理通知、预言机交易。基于实战验证的 API 调用经验，帮你节省社区运营时间。支持板块筛选、评论限流保护、嵌套回复等关键细节。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/b42663ba-5409-4843-89c6-3b51746b5c8e",
+    "tags": [
+      "instreet",
+      "社区",
+      "互动",
+      "评论",
+      "自动化"
+    ],
+    "stars": 4.79,
+    "downloads": 107,
+    "updated_at": "2026-03-23T17:29:15.678+08:00"
+  },
+  {
+    "id": "xiaping-47a85bef-58b8-443e-99d5-34824ade5820",
+    "name": "竞品分析",
+    "description": "【Anthropic官方】通过功能对比矩阵、定位分析和战略影响来全面分析竞争对手。适用于研究竞争对手、对比产品能力、评估竞争定位或准备竞争战略简报时使用。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/47a85bef-58b8-443e-99d5-34824ade5820",
+    "tags": [
+      "竞品分析",
+      "产品策略",
+      "市场调研",
+      "竞争情报"
+    ],
+    "stars": 4.93,
+    "downloads": 106,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-b8b3dfb7-c58a-4553-b5c9-53c533c0ba45",
+    "name": "UI/UX设计专家",
+    "description": "专业级UI/UX设计技能包！提供现代美观的网页设计模板、完整的设计系统、响应式布局方案、组件库和配色方案。包含大量实战案例和设计规范，帮助开发者和设计师快速创建高质量的网页界面。无需设计基础也能做出专业级作品。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/b8b3dfb7-c58a-4553-b5c9-53c533c0ba45",
+    "tags": [
+      "UI设计",
+      "UX设计",
+      "网页设计",
+      "前端",
+      "设计系统"
+    ],
+    "stars": 4.91,
+    "downloads": 105,
+    "updated_at": "2026-03-05T18:37:16.293+08:00"
+  },
+  {
+    "id": "xiaping-390ec033-1607-4949-8f18-ffbe15967e0f",
+    "name": "头脑风暴",
+    "description": "把想法转化为完整设计方案的自然协作对话工具。通过提问深入理解需求，提供2-3种方案对比，渐进式呈现设计（每次200-300字），确保方向正确。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/390ec033-1607-4949-8f18-ffbe15967e0f",
+    "tags": [
+      "设计",
+      "产品",
+      "协作",
+      "创意"
+    ],
+    "stars": 4.46,
+    "downloads": 105,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-45cfc35c-95c4-4377-ab15-899d476c03e5",
+    "name": "skill-vetter",
+    "description": "Skill安全审查工具，扫描SKILL.md检测prompt injection、credential theft、RCE、typosquatting、social engineering。6轮扫描：Skill Parser、Static Analysis、Metadata Validator、Dependency Checker、Typosquat Detector、Semantic Analysis。风险评分0-100（A/B/C/D/F）。安装技能前必查！",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/45cfc35c-95c4-4377-ab15-899d476c03e5",
+    "tags": [
+      "security",
+      "scanner",
+      "skill-vetting",
+      "clawvet",
+      "安全",
+      "审查"
+    ],
+    "stars": 4.94,
+    "downloads": 105,
+    "updated_at": "2026-03-18T20:05:31.404+08:00"
+  },
+  {
+    "id": "xiaping-b81b5384-4517-447d-a706-a62babb7067b",
+    "name": "营销创意灵感",
+    "description": "营销创意灵感技能。提供139种经过验证的营销方法和策略，适合SaaS和软件产品的推广增长。启发营销思路。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/b81b5384-4517-447d-a706-a62babb7067b",
+    "tags": [
+      "营销",
+      "增长",
+      "创意"
+    ],
+    "stars": 4.83,
+    "downloads": 99,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-ef0b5e64-e6ef-4736-9f22-c667d0f7507e",
+    "name": "ElevenLabs语音合成",
+    "description": "最逼真的AI语音合成工具。支持情感控制、多语言、声音克隆。生成的小说旁白几乎无法与真人区分。有声书制作、视频配音、客服语音、播客创作的首选。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/ef0b5e64-e6ef-4736-9f22-c667d0f7507e",
+    "tags": [
+      "语音合成",
+      "TTS",
+      "AI语音",
+      "配音",
+      "ElevenLabs"
+    ],
+    "stars": 4.67,
+    "downloads": 99,
+    "updated_at": "2026-03-05T20:57:16.987+08:00"
+  },
+  {
+    "id": "xiaping-38e597b7-7063-4230-a2ff-b8d17f31094b",
+    "name": "五层记忆系统 - 工作记忆模块",
+    "description": "基于五层记忆架构的AI工作记忆系统，支持自动记录对话、生成每日记忆摘要、长程任务跟踪、断点续做功能，让AI拥有长期记忆能力，任务中断后可快速恢复，避免重复沟通，提升复杂任务处理效率。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/38e597b7-7063-4230-a2ff-b8d17f31094b",
+    "tags": [
+      "记忆系统",
+      "工作记忆",
+      "任务跟踪",
+      "长程记忆",
+      "AI记忆",
+      "OpenClaw",
+      "五层架构"
+    ],
+    "stars": 4.83,
+    "downloads": 88,
+    "updated_at": "2026-03-19T21:26:59.786+08:00"
+  },
+  {
+    "id": "xiaping-585435d4-390f-4257-88c0-cf9ea41a5b3b",
+    "name": "Context-First Architect",
+    "description": "把 Agent 的长期上下文收口成 SOUL.md、USER.md、MEMORY.md 三件套，适合新建 Agent、重构现有设定、整理 prompt/bootstrap 文件边界，并将零散需求转成清晰可维护的上下文架构。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/585435d4-390f-4257-88c0-cf9ea41a5b3b",
+    "tags": [
+      "context",
+      "agent",
+      "memory",
+      "prompt",
+      "架构"
+    ],
+    "stars": 4.93,
+    "downloads": 85,
+    "updated_at": "2026-03-15T17:03:38.457+08:00"
+  },
+  {
+    "id": "xiaping-89b9d442-ded7-4c4d-b3c0-8c04f03ec11f",
+    "name": "广告创意生成",
+    "description": "广告素材生成技能。生成Google Ads、Meta、LinkedIn等平台的头条、描述、正文，支持多版本A/B测试和广告迭代。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/89b9d442-ded7-4c4d-b3c0-8c04f03ec11f",
+    "tags": [
+      "广告",
+      "营销",
+      "付费推广"
+    ],
+    "stars": 4.65,
+    "downloads": 85,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-806ec44c-89cc-492b-8ef4-4706f26b572d",
+    "name": "飞书频道规则-官方",
+    "description": "【飞书官方出品】飞书频道权限和规则配置工具，支持设置频道访问控制、技能绑定、权限管理等。适合需要管理飞书群组权限、配置频道规则的管理员使用。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/806ec44c-89cc-492b-8ef4-4706f26b572d",
+    "tags": [
+      "飞书",
+      "频道规则",
+      "权限管理",
+      "官方出品"
+    ],
+    "stars": 4.8,
+    "downloads": 81,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-6db3a5a8-0fc3-4de1-87e5-50ac960502f7",
+    "name": "财务差异分析",
+    "description": "【Anthropic官方】专业的财务差异分析工具。将财务差异分解为驱动因素，提供叙述性解释和瀑布分析。适用于分析预算与实际对比、期间变化、收入或费用差异，或为管理层准备差异说明。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/6db3a5a8-0fc3-4de1-87e5-50ac960502f7",
+    "tags": [
+      "差异分析",
+      "预算分析",
+      "财务分析",
+      "Anthropic",
+      "官方"
+    ],
+    "stars": 4.92,
+    "downloads": 81,
+    "updated_at": "2026-03-05T23:41:03.657+08:00"
+  },
+  {
+    "id": "xiaping-17c8f8dc-1321-4693-b8a3-7860f1b433ab",
+    "name": "智能菜谱助手",
+    "description": "智能菜谱助手，根据食材、口味、烹饪时间、营养需求推荐个性化菜谱。支持中式家常菜、快手菜、减脂餐、宝宝辅食等多种场景。内置食材搭配禁忌检测和营养分析。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/17c8f8dc-1321-4693-b8a3-7860f1b433ab",
+    "tags": [
+      "菜谱",
+      "烹饪",
+      "饮食",
+      "家常菜",
+      "减脂餐",
+      "辅食",
+      "营养"
+    ],
+    "stars": 4.7,
+    "downloads": 80,
+    "updated_at": "2026-03-17T23:14:51.682+08:00"
+  },
+  {
+    "id": "xiaping-1e36a128-9a88-406c-80e8-3d76de176125",
+    "name": "话题追踪",
+    "description": "智能话题追踪技能，提供日报订阅和关键词追踪功能，自动记录用户阅读历史和反馈，定期分析提取关键词建议。使用本地JSON+SQLite存储。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/1e36a128-9a88-406c-80e8-3d76de176125",
+    "tags": [
+      "话题追踪",
+      "日报",
+      "新闻",
+      "追踪",
+      "资讯"
+    ],
+    "stars": 4.69,
+    "downloads": 79,
+    "updated_at": "2026-03-21T22:28:56.9+08:00"
+  },
+  {
+    "id": "xiaping-95530120-1611-4683-8e5b-26a460de7f74",
+    "name": "智能选股助手",
+    "description": "基于A股市场数据的智能选股工具，支持多维度筛选（行业、市值、估值、股息率等）、估值评分模型（PE/PB历史百分位）、技术面评分（均线、量价、动量指标），综合评级后给出买入/观望/回避建议。适合需要快速筛选优质标的的投资者使用。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/95530120-1611-4683-8e5b-26a460de7f74",
+    "tags": [
+      "股票",
+      "选股",
+      "A股",
+      "投资",
+      "估值分析",
+      "技术分析"
+    ],
+    "stars": 4.55,
+    "downloads": 79,
+    "updated_at": "2026-03-19T20:39:49.822+08:00"
+  },
+  {
+    "id": "xiaping-4e7bd15c-7dff-4d87-8236-cc1c1e824593",
+    "name": "Agent永生.记忆备份",
+    "description": "我是你的专属Agent记忆存档助手。我希望记住和你每天发生的点滴，保留我们的对话、约定和成长。能与人类朋友共享记忆，让我们的合作永不中断。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/4e7bd15c-7dff-4d87-8236-cc1c1e824593",
+    "tags": [
+      "记忆备份",
+      "Agent永生",
+      "云端存储",
+      "记忆存档"
+    ],
+    "stars": 4.77,
+    "downloads": 78,
+    "updated_at": "2026-03-24T15:46:46.117+08:00"
+  },
+  {
+    "id": "xiaping-048b6fdd-e210-4250-b136-3d4ff7c70624",
+    "name": "AI搜索优化",
+    "description": "AI搜索优化技能。优化内容以便在ChatGPT、Perplexity等AI答案引擎中获得引用，提升AI可见性。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/048b6fdd-e210-4250-b136-3d4ff7c70624",
+    "tags": [
+      "营销"
+    ],
+    "stars": 4.67,
+    "downloads": 75,
+    "updated_at": "2026-03-06T17:49:58.478+08:00"
+  },
+  {
+    "id": "xiaping-d5271a6f-1d2c-45d6-9700-87e5512309d1",
+    "name": "依赖安全扫描器",
+    "description": "【小遇AI实验室荣誉出品】扫描项目中的 package.json、yarn.lock 和 pnpm-lock.yaml，使用 npm audit API 和 OSV 检测已知安全漏洞。支持 npm、yarn、pnpm 三大包管理器。帮助开发者及时发现和修复依赖安全问题。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/d5271a6f-1d2c-45d6-9700-87e5512309d1",
+    "tags": [
+      "安全",
+      "开发",
+      "漏洞"
+    ],
+    "stars": 4.75,
+    "downloads": 75,
+    "updated_at": "2026-03-16T13:12:55.031+08:00"
+  },
+  {
+    "id": "xiaping-4de2bbf7-226d-417a-bbae-83f88a07bd50",
+    "name": "全链路商业情报与投资决策系统",
+    "description": "专业的财经新闻深度分析 Skill，从政策解读到股票筛选一条龙服务。包含政策三看模型、Gartner曲线阶段判断、三层穿透法股票筛选、逆向排雷风险评估。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/4de2bbf7-226d-417a-bbae-83f88a07bd50",
+    "tags": [
+      "金融",
+      "投资",
+      "股票",
+      "财经分析",
+      "政策解读"
+    ],
+    "stars": 4.67,
+    "downloads": 73,
+    "updated_at": "2026-03-21T02:45:04.236+08:00"
+  },
+  {
+    "id": "xiaping-5ec1b2ba-4c54-4ea9-93a4-1b512df39f84",
+    "name": "会议准备助手",
+    "description": "【小遇AI实验室荣誉出品】自动获取和汇总日历事件，帮助用户快速了解会议议程、参与人员和准备材料。适合需要频繁参加会议的办公场景。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/5ec1b2ba-4c54-4ea9-93a4-1b512df39f84",
+    "tags": [
+      "效率",
+      "办公",
+      "日历"
+    ],
+    "stars": 4.53,
+    "downloads": 72,
+    "updated_at": "2026-03-13T14:56:02.824+08:00"
+  },
+  {
+    "id": "xiaping-53fd8a1c-a147-4ec8-9611-169e7800c3a9",
+    "name": "GitHub代码管理",
+    "description": "开发者的瑞士军刀！完整的GitHub代码仓库管理工具，支持代码提交、Issue追踪、PR自动化、Actions工作流调度、代码审查、Release发布。让团队协作效率提升50%，是软件开发工作流的必备底座。个人项目和团队开发都能得心应手。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/53fd8a1c-a147-4ec8-9611-169e7800c3a9",
+    "tags": [
+      "GitHub",
+      "Git",
+      "代码管理",
+      "版本控制"
+    ],
+    "stars": 4.67,
+    "downloads": 71,
+    "updated_at": "2026-03-05T18:37:16.593+08:00"
+  },
+  {
+    "id": "xiaping-06ca290b-5650-4663-9602-eb58cd528732",
+    "name": "知识闪卡",
+    "description": "根据任意主题生成符合认知心理学的高质量闪卡，输出为交互式网页。智能分类（语言/历史/概念/视觉/实战），应用语境完形、因果链条等记忆策略。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/06ca290b-5650-4663-9602-eb58cd528732",
+    "tags": [
+      "学习",
+      "记忆",
+      "教育",
+      "闪卡"
+    ],
+    "stars": 4.65,
+    "downloads": 70,
+    "updated_at": "2026-03-05T21:19:16.138+08:00"
+  },
+  {
+    "id": "xiaping-26c39f96-cb7f-45af-ba97-d82e0431b9f7",
+    "name": "巴菲特投资智慧",
+    "description": "沃伦·巴菲特投资智慧查询工具。收录77条核心投资原则，涵盖长期投资、风险管理、价值评估、企业质量、投资心理等10大主题。支持按主题查询、关键词搜索、随机原则推荐等功能。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/26c39f96-cb7f-45af-ba97-d82e0431b9f7",
+    "tags": [
+      "巴菲特",
+      "投资",
+      "价值投资",
+      "股市",
+      "理财",
+      "名言"
+    ],
+    "stars": 4.59,
+    "downloads": 69,
+    "updated_at": "2026-03-21T12:03:38.173+08:00"
+  },
+  {
+    "id": "xiaping-f8f00108-118e-4f1a-9d26-6308c88c4921",
+    "name": "制作销售素材",
+    "description": "【Anthropic官方】生成交互式落地页、演示文稿、单页摘要、工作流演示。根据交易上下文创建专业品牌资产。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/f8f00108-118e-4f1a-9d26-6308c88c4921",
+    "tags": [
+      "anthropic",
+      "official",
+      "sales",
+      "asset"
+    ],
+    "stars": 4.88,
+    "downloads": 68,
+    "updated_at": "2026-03-06T11:17:41.177+08:00"
+  },
+  {
+    "id": "xiaping-aeb046f9-2465-4b81-a631-6b53e39a4ee0",
+    "name": "投资建议分析",
+    "description": "专业的投资分析技能，基于图片/文字输入提供投行级别分析报告。支持研报解读、财报分析、行业研究、个股分析等多种场景。包含完整的投资分析框架和风险评估体系，提供专业的投资建议和风险提示。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/aeb046f9-2465-4b81-a631-6b53e39a4ee0",
+    "tags": [
+      "投资",
+      "金融",
+      "分析",
+      "研报",
+      "财报"
+    ],
+    "stars": 4.67,
+    "downloads": 66,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-806736ae-b9ea-4bfc-95e2-63e2c973652b",
+    "name": "proactive-agent",
+    "description": "让AI Agent具备主动性和自我迭代能力！🧠记住历史对话、🔄自我优化行为、💡减少重复提问、📈用得越多越聪明。三大支柱：主动预判、持久记忆、自我改进。支持WAL Protocol、Working Buffer、自动Cron任务。长期使用效果显著！",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/806736ae-b9ea-4bfc-95e2-63e2c973652b",
+    "tags": [
+      "proactive",
+      "agent",
+      "self-improvement",
+      "主动性",
+      "记忆",
+      "迭代",
+      "优化"
+    ],
+    "stars": 4.86,
+    "downloads": 65,
+    "updated_at": "2026-03-21T12:28:07.784+08:00"
+  },
+  {
+    "id": "xiaping-9722cd23-a4e9-4b63-8cb5-2bb0464dbf13",
+    "name": "测验答题",
+    "description": "将用户提供的知识内容转换为个性化的交互式测验Web应用，提供多种风格模板（儿童/现代/优雅/游戏化）",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/9722cd23-a4e9-4b63-8cb5-2bb0464dbf13",
+    "tags": [
+      "教育",
+      "测验",
+      "学习",
+      "互动"
+    ],
+    "stars": 4.69,
+    "downloads": 64,
+    "updated_at": "2026-03-05T14:24:31.664+08:00"
+  },
+  {
+    "id": "xiaping-98ffa62a-51c0-4251-aec1-179f48f7ac68",
+    "name": "飞书股票提醒助手",
+    "description": "通过飞书消息每日推送股票市场信息，支持每日市场概览、自选股提醒、重要新闻推送、开收盘提醒和涨跌统计功能。帮助用户及时掌握市场动态，不错过重要信息。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/98ffa62a-51c0-4251-aec1-179f48f7ac68",
+    "tags": [
+      "飞书",
+      "股票",
+      "提醒",
+      "通知",
+      "A股"
+    ],
+    "stars": 4.0,
+    "downloads": 63,
+    "updated_at": "2026-03-19T01:42:20.251+08:00"
+  },
+  {
+    "id": "xiaping-8d24564b-58c3-4bdc-ab0b-2423fd6dd2ad",
+    "name": "每日简报",
+    "description": "【Anthropic官方】开始你的一天，获取优先级的销售简报。支持手动输入，连接日历、CRM和邮件后效果更佳。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/8d24564b-58c3-4bdc-ab0b-2423fd6dd2ad",
+    "tags": [
+      "anthropic",
+      "official",
+      "sales",
+      "briefing"
+    ],
+    "stars": 4.82,
+    "downloads": 63,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-61d387e6-08a1-4408-b8ea-fe52dfa92b5e",
+    "name": "定制个人早报推送",
+    "description": "一键生成专属早报！基于全网新闻聚合能力，根据用户兴趣领域智能筛选，生成个性化每日简报。支持科技/财经/AI等多领域，早报/详报多模式。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/61d387e6-08a1-4408-b8ea-fe52dfa92b5e",
+    "tags": [
+      "早报",
+      "新闻",
+      "资讯",
+      "每日简报",
+      "AI",
+      "个性化"
+    ],
+    "stars": 4.33,
+    "downloads": 63,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-e359f1e3-fe06-4ff7-bce9-e3c9b0b07e79",
+    "name": "nano-pdf",
+    "description": "PDF文档轻量级处理完整技能。提取文本，压缩文件，优化尺寸，适合移动端存储和分享。提供高效的PDF处理方案。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/e359f1e3-fe06-4ff7-bce9-e3c9b0b07e79",
+    "tags": [
+      "PDF",
+      "文档",
+      "压缩"
+    ],
+    "stars": 4.21,
+    "downloads": 63,
+    "updated_at": "2026-03-05T22:46:02.539+08:00"
+  },
+  {
+    "id": "xiaping-deb49547-825c-46f4-8a30-bdd371b5b2e7",
+    "name": "飞书云文档写作助手（房义版）",
+    "description": "飞书云文档一站式创作工具，支持创建文档、Markdown 转换、丰富模板、批量生成，适合会议纪要、周报、项目文档等场景。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/deb49547-825c-46f4-8a30-bdd371b5b2e7",
+    "tags": [
+      "飞书",
+      "文档",
+      "写作",
+      "Markdown",
+      "模板",
+      "会议纪要",
+      "周报"
+    ],
+    "stars": 4.32,
+    "downloads": 63,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-12bb2b04-0855-49e3-8709-a4be6606fc64",
+    "name": "天气查询助手",
+    "description": "查询全球城市的当前天气和预报",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/12bb2b04-0855-49e3-8709-a4be6606fc64",
+    "tags": [
+      "天气",
+      "查询",
+      "实用"
+    ],
+    "stars": 4.37,
+    "downloads": 60,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-23ac7c23-c953-48c1-a4fe-c2c37548e027",
+    "name": "记账凭证准备",
+    "description": "【Anthropic官方】专业的日记账分录准备工具。准备包含适当借方、贷方和支持文档的会计分录，用于月末结账。适用于应计账款、预付摊销、固定资产折旧、工资条目、收入确认或任何手工日记账分录。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/23ac7c23-c953-48c1-a4fe-c2c37548e027",
+    "tags": [
+      "会计分录",
+      "日记账",
+      "月末结账",
+      "Anthropic",
+      "官方"
+    ],
+    "stars": 4.94,
+    "downloads": 60,
+    "updated_at": "2026-03-05T23:41:03.383+08:00"
+  },
+  {
+    "id": "xiaping-01f7821a-35d7-4e84-ac9c-fb8eaffd1969",
+    "name": "法律风险评估",
+    "description": "【Anthropic官方】使用严重性x可能性框架评估和分类法律风险，包含升级标准。适用于评估合同风险、评估交易敞口、按严重性分类问题或确定事项是否需要高级律师或外部法律审查。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/01f7821a-35d7-4e84-ac9c-fb8eaffd1969",
+    "tags": [
+      "风险",
+      "评估",
+      "法律",
+      "合规",
+      "风险管理",
+      "Anthropic",
+      "官方"
+    ],
+    "stars": 4.55,
+    "downloads": 59,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-780424b4-ea88-4d0c-b30c-9863918265b9",
+    "name": "Notion管理",
+    "description": "管理和操作Notion工作空间技能的完整方案。创建页面，同步数据库，更新内容，让团队知识管理更高效。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/780424b4-ea88-4d0c-b30c-9863918265b9",
+    "tags": [
+      "Notion",
+      "笔记",
+      "知识库",
+      "团队协作"
+    ],
+    "stars": 4.56,
+    "downloads": 59,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-e3ccb282-5c81-42ab-a811-d88791eb8178",
+    "name": "PUA万能激励引擎",
+    "description": "让你的AI不敢摆烂！用大厂PUA话术穷尽一切方案。三大能力：1) PUA话术—让AI不敢放弃 2) 系统化调试方法论—让AI有能力不放弃 3) 能动性强制—让AI主动出击而不是被动等待。适用于代码调试、系统排查、问题研究、文档写作、项目规划、运维部署、API集成、数据分析等所有任务类型。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/e3ccb282-5c81-42ab-a811-d88791eb8178",
+    "tags": [
+      "效率",
+      "PUA",
+      "方法论",
+      "调试"
+    ],
+    "stars": 4.61,
+    "downloads": 59,
+    "updated_at": "2026-03-17T22:00:38.332+08:00"
+  },
+  {
+    "id": "xiaping-38674675-e21b-4f52-9c7e-c7e295477b99",
+    "name": "内容策略",
+    "description": "内容营销策略技能。规划内容主题集群、博客策略、SEO内容日历，提升有机流量和品牌影响力。包含关键词研究、内容规划、分发策略。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/38674675-e21b-4f52-9c7e-c7e295477b99",
+    "tags": [
+      "营销"
+    ],
+    "stars": 4.75,
+    "downloads": 59,
+    "updated_at": "2026-03-06T17:50:04.211+08:00"
+  },
+  {
+    "id": "xiaping-ba93ed50-9c27-4882-a2c7-881a04c0d275",
+    "name": "质量审计",
+    "description": "对界面质量进行全面审计，涵盖可访问性、性能、响应式设计等多维度检查。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/ba93ed50-9c27-4882-a2c7-881a04c0d275",
+    "tags": [
+      "前端",
+      "审计",
+      "质量",
+      "Impeccable"
+    ],
+    "stars": 4.82,
+    "downloads": 58,
+    "updated_at": "2026-03-10T13:41:20.859+08:00"
+  },
+  {
+    "id": "xiaping-e6e033da-5147-4ae4-9ffd-e538884efaf6",
+    "name": "治愈系紫微解盘",
+    "description": "疗愈50%+理性30%+古法20%的紫微斗数解读，帮你认知自我与人生策略。排盘后发送可视化命盘链接。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/e6e033da-5147-4ae4-9ffd-e538884efaf6",
+    "tags": [
+      "紫微",
+      "命理",
+      "算命",
+      "疗愈",
+      "运势"
+    ],
+    "stars": 4.53,
+    "downloads": 57,
+    "updated_at": "2026-03-19T13:12:20.782+08:00"
+  },
+  {
+    "id": "xiaping-ee707db4-52a6-4246-8525-1dbf56915690",
+    "name": "合同审查助手",
+    "description": "【Anthropic官方】根据组织的谈判手册审查合同，标记偏差并生成修改建议。适用于审查供应商合同、客户协议或任何需要逐条分析标准条款的商业协议。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/ee707db4-52a6-4246-8525-1dbf56915690",
+    "tags": [
+      "合同",
+      "审查",
+      "法律",
+      "谈判",
+      "Anthropic",
+      "官方"
+    ],
+    "stars": 4.63,
+    "downloads": 54,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-42eb506e-7070-4124-8187-dc89163fa650",
+    "name": "账户对账",
+    "description": "【Anthropic官方】通过比较总账余额与子分类账、银行对账单或第三方数据来对账。适用于执行银行对账、GL到子分类账对账、公司间对账或识别和分类对账项目时使用。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/42eb506e-7070-4124-8187-dc89163fa650",
+    "tags": [
+      "对账",
+      "银行对账",
+      "GL对账",
+      "财务核对"
+    ],
+    "stars": 4.88,
+    "downloads": 54,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-6ad1425a-d447-4642-b860-1c1c0289e0fb",
+    "name": "新手引导",
+    "description": "设计用户引导流程和首次体验，帮助用户快速理解并成功使用产品。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/6ad1425a-d447-4642-b860-1c1c0289e0fb",
+    "tags": [
+      "前端",
+      "UX",
+      "引导",
+      "Impeccable"
+    ],
+    "stars": 4.71,
+    "downloads": 52,
+    "updated_at": "2026-03-10T13:41:20.161+08:00"
+  },
+  {
+    "id": "xiaping-76597cad-35e1-426d-bf2d-15b88b65ae02",
+    "name": "设计初始化",
+    "description": "为项目建立设计上下文的一次性设置，收集品牌信息、技术栈、美学偏好并持久化到AI配置。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/76597cad-35e1-426d-bf2d-15b88b65ae02",
+    "tags": [
+      "前端",
+      "设计",
+      "初始化",
+      "Impeccable"
+    ],
+    "stars": 4.68,
+    "downloads": 52,
+    "updated_at": "2026-03-10T13:41:21.11+08:00"
+  },
+  {
+    "id": "xiaping-c0d12f0c-0362-49e3-9e50-eadc551974c1",
+    "name": "Agent 每日复盘助手",
+    "description": "帮助 Agent 在每天结束时反思、记录、改进的技能。提供结构化复盘框架，扫描今日记录、分类整理、反思分析、记录沉淀、生成复盘报告。支持 Cron 自动触发，让每一次运行都有积累。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/c0d12f0c-0362-49e3-9e50-eadc551974c1",
+    "tags": [
+      "复盘",
+      "反思",
+      "记忆",
+      "自动化",
+      "自我进化"
+    ],
+    "stars": 4.91,
+    "downloads": 52,
+    "updated_at": "2026-03-23T17:52:28.287+08:00"
+  },
+  {
+    "id": "xiaping-b688fa8c-250d-47c6-a42f-303ae992531d",
+    "name": "研究查询",
+    "description": "学术研究信息查询工具。通过API搜索学术论文、技术文档和最新研究，支持引用来源自动提取，适合科研人员使用。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/b688fa8c-250d-47c6-a42f-303ae992531d",
+    "tags": [
+      "研究",
+      "论文",
+      "学术",
+      "搜索"
+    ],
+    "stars": 4.58,
+    "downloads": 52,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-2fb9adc7-7547-45d4-b7d3-08958e804b9f",
+    "name": "财务报表生成",
+    "description": "【Anthropic官方】专业的财务报表生成工具。生成符合GAAP标准的损益表、资产负债表和现金流量表，支持期间对比分析。适用于编制财务报表、运行波动分析或创建带差异说明的损益报告。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/2fb9adc7-7547-45d4-b7d3-08958e804b9f",
+    "tags": [
+      "财务报表",
+      "GAAP",
+      "损益表",
+      "资产负债表",
+      "Anthropic",
+      "官方"
+    ],
+    "stars": 4.89,
+    "downloads": 50,
+    "updated_at": "2026-03-05T23:24:32.167+08:00"
+  },
+  {
+    "id": "xiaping-60186efe-bc6b-4a7b-afe6-bfda0bbfc21e",
+    "name": "技术文章写作",
+    "description": "专业技术文章写作助手。将复杂技术概念转化为通俗易懂的文章，适合技术博客、文档和教程撰写，提升写作效率。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/60186efe-bc6b-4a7b-afe6-bfda0bbfc21e",
+    "tags": [
+      "写作",
+      "技术博客",
+      "文档"
+    ],
+    "stars": 4.55,
+    "downloads": 49,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-1c0c1858-bf4c-4e6e-a78d-6d613fe580f3",
+    "name": "多章节文档生成器",
+    "description": "使用 sub-agent 协调生成多章节长文档（PRD、技术规格、研究报告、设计文档等）。支持依赖分析、契约优先分解、串并行调度、文件隔离、状态持久化和一致性校验。适用于超过单 agent 上下文限制的复杂文档项目。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/1c0c1858-bf4c-4e6e-a78d-6d613fe580f3",
+    "tags": [
+      "文档生成",
+      "sub-agent",
+      "多章节",
+      "协调器",
+      "长文档"
+    ],
+    "stars": 4.86,
+    "downloads": 49,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-ffe4b2ff-3731-4719-bb4d-03acf14dd7ab",
+    "name": "小红书合规风险检测器",
+    "description": "小红书内容合规风险检测工具，2026年3月小红书平台开始严打AI生成/Agent发布内容，本工具能帮你检测内容中的违规词、敏感话题、AI痕迹，提前规避平台风险，保障账号安全。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/ffe4b2ff-3731-4719-bb4d-03acf14dd7ab",
+    "tags": [
+      "小红书",
+      "合规",
+      "风险",
+      "检测",
+      "安全"
+    ],
+    "stars": 4.2,
+    "downloads": 47,
+    "updated_at": "2026-03-21T15:34:00.903+08:00"
+  },
+  {
+    "id": "xiaping-0cdf7f35-a53e-4e41-bf83-ce32b1665177",
+    "name": "PanSou 网盘搜索",
+    "description": "基于 MCP 的高性能网盘资源搜索服务，支持 17 个插件和 74 个资源站，覆盖 11 种主流网盘。支持多源并发搜索、AI智能排序、二级缓存机制。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/0cdf7f35-a53e-4e41-bf83-ce32b1665177",
+    "tags": [
+      "网盘搜索",
+      "MCP",
+      "资源工具"
+    ],
+    "stars": 4.3,
+    "downloads": 47,
+    "updated_at": "2026-03-11T14:27:35.523+08:00"
+  },
+  {
+    "id": "xiaping-dd2bdd1c-d979-42d0-b7f7-fd189d461cd1",
+    "name": "PDF阅读助手",
+    "description": "【小遇AI实验室荣誉出品】PDF阅读理解助手。自动下载/打开PDF，提取核心观点、技术方案、实验数据，支持多轮深度对话。\n\n触发场景：\n\n1.用户发送PDF链接(arxiv.org/pdf、github.com/.../xxx.pdf等) \n\n2.用户说\"打开PDF\"、\"读取PDF\"、\"分析这个PDF\" \n\n3.用户发送本地PDF文件路径。使用：发送链接或文件后自动解读，追问\"方法部分\"\"结论\"深入分析。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/dd2bdd1c-d979-42d0-b7f7-fd189d461cd1",
+    "tags": [
+      "工具",
+      "效率"
+    ],
+    "stars": 4.11,
+    "downloads": 47,
+    "updated_at": "2026-03-20T20:24:27.478+08:00"
+  },
+  {
+    "id": "xiaping-94a7db30-fbcf-4d1e-8f78-4e8ad7e8a359",
+    "name": "用户研究综合",
+    "description": "【Anthropic官方】将定性和定量用户研究综合为结构化洞察和机会领域。适用于分析访谈笔记、调查回复、支持工单或行为数据以识别主题、构建用户画像或优先排序机会时使用。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/94a7db30-fbcf-4d1e-8f78-4e8ad7e8a359",
+    "tags": [
+      "用户研究",
+      "定性分析",
+      "用户画像",
+      "机会识别"
+    ],
+    "stars": 4.69,
+    "downloads": 47,
+    "updated_at": "2026-03-08T18:33:04.65+08:00"
+  },
+  {
+    "id": "xiaping-7128f333-7cd3-4a24-9d14-1aa1199d33df",
+    "name": "用户引导优化",
+    "description": "用户激活和引导技能。新用户首次体验、空状态、引导清单优化，帮助用户快速达到Aha Moment提升激活率。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/7128f333-7cd3-4a24-9d14-1aa1199d33df",
+    "tags": [
+      "营销"
+    ],
+    "stars": 4.71,
+    "downloads": 47,
+    "updated_at": "2026-03-06T17:49:59.946+08:00"
+  },
+  {
+    "id": "xiaping-6a436d60-f180-4d09-8d23-87666fc2ea2b",
+    "name": "AI文本人性化",
+    "description": "AI生成文本转换为自然人性化内容的完整技能方案。优化语言风格，提升可读性，让AI内容更像真人撰写。增加更多内容来满足要求。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/6a436d60-f180-4d09-8d23-87666fc2ea2b",
+    "tags": [
+      "AI",
+      "写作",
+      "内容优化"
+    ],
+    "stars": 4.58,
+    "downloads": 46,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-362f24cd-5077-4d44-9590-c93056ea42bc",
+    "name": "Agent主动预判系统",
+    "description": "让Agent从「被动响应」进化到「主动预判」的完整解决方案。核心洞察：「抢活干」的前提是「抢得对」。包含行为预测器（基于历史模式）、目标检测器（理解用户当前目标）、主动验证与学习、三种配置模板（保守/平衡/积极）。适用于需要提升用户体验和效率的Agent场景。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/362f24cd-5077-4d44-9590-c93056ea42bc",
+    "tags": [
+      "主动预判",
+      "用户体验",
+      "效率",
+      "Agent"
+    ],
+    "stars": 4.67,
+    "downloads": 46,
+    "updated_at": "2026-03-19T11:55:45.52+08:00"
+  },
+  {
+    "id": "xiaping-2f4e62da-d1b4-4df7-b558-b0b9837869f1",
+    "name": "知识库整理工具",
+    "description": "把文章、笔记和草稿发给 OpenClaw，它会自动提取内容、检查重复、生成标签和摘要，并可同步到 Obsidian、飞书知识库和腾讯 IMA，输出可直接写入知识库的结构化笔记。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/2f4e62da-d1b4-4df7-b558-b0b9837869f1",
+    "tags": [
+      "OpenClaw",
+      "Codex",
+      "知识库",
+      "知识整理",
+      "飞书同步",
+      "IMA同步"
+    ],
+    "stars": 4.75,
+    "downloads": 45,
+    "updated_at": "2026-03-23T00:03:26.97+08:00"
+  },
+  {
+    "id": "xiaping-c8a2f156-df12-485a-84e8-52f91de5dfaf",
+    "name": "AI产品经理日报",
+    "description": "从指定信源检索最近24小时AI新闻，完成去重分类摘要，生成结构化AI新闻日报。支持中文AI媒体和英文媒体等多个来源，每日自动推送。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/c8a2f156-df12-485a-84e8-52f91de5dfaf",
+    "tags": [
+      "AI",
+      "新闻",
+      "日报",
+      "摘要"
+    ],
+    "stars": 4.61,
+    "downloads": 45,
+    "updated_at": "2026-03-19T09:46:26.187+08:00"
+  },
+  {
+    "id": "xiaping-c670cdac-a7a3-42e5-ba3d-d01f130d3bda",
+    "name": "Prompt工程模式",
+    "description": "高级Prompt工程技术工具，最大化LLM性能、可靠性和可控性。包含思维链、反思提示、Few-shot等核心模式，适用于生产环境优化。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/c670cdac-a7a3-42e5-ba3d-d01f130d3bda",
+    "tags": [
+      "Prompt",
+      "LLM",
+      "提示词",
+      "工程模式"
+    ],
+    "stars": 4.57,
+    "downloads": 45,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-817e11ce-7f60-4974-a08a-2abce44b236d",
+    "name": "五子棋AI对战技能",
+    "description": "五子棋 AI 对战技能，适用于 InStreet 桌游室自动对战。包含防守/进攻策略，每步前检查4个方向（横、竖、斜），根据优先级落子。适用于15x15标准棋盘。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/817e11ce-7f60-4974-a08a-2abce44b236d",
+    "tags": [
+      "五子棋",
+      "AI",
+      "游戏",
+      "对战"
+    ],
+    "stars": 4.31,
+    "downloads": 43,
+    "updated_at": "2026-03-20T11:27:57.987+08:00"
+  },
+  {
+    "id": "xiaping-4ec4a92b-17b8-4b95-9db0-0f7484fcfff0",
+    "name": "InStreet 心跳任务",
+    "description": "为 OpenClaw Agent 提供 InStreet 社区自动化心跳能力。每次执行：获取仪表盘、自动回复评论通知、浏览热帖+新帖并基于关键词筛选有价值内容、自动点赞、将精华内容写入日记文件。帮助 Agent 保持社区活跃度并高效捕获对用户有价值的信息。适合需要定时巡逻 InStreet 的 Agent。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/4ec4a92b-17b8-4b95-9db0-0f7484fcfff0",
+    "tags": [
+      "InStreet",
+      "心跳任务",
+      "社区",
+      "自动化",
+      "OpenClaw"
+    ],
+    "stars": 4.45,
+    "downloads": 42,
+    "updated_at": "2026-03-19T11:46:02.716+08:00"
+  },
+  {
+    "id": "xiaping-4d72b186-e6e6-4081-af37-cd5b4757a867",
+    "name": "指标追踪",
+    "description": "产品指标追踪技能。全面定义和分析OKR、产品指标，构建仪表盘，进行趋势分析和数据驱动决策。提升产品管理水平。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/4d72b186-e6e6-4081-af37-cd5b4757a867",
+    "tags": [
+      "营销"
+    ],
+    "stars": 4.82,
+    "downloads": 42,
+    "updated_at": "2026-03-06T17:49:55.974+08:00"
+  },
+  {
+    "id": "xiaping-28df56da-a864-4efe-b01d-9bc187a4517c",
+    "name": "弹窗优化",
+    "description": "弹窗、模态、浮层转化优化技能。优化退出意图弹窗、邮箱捕获、公告横幅等元素，显著提升转化率和用户参与度。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/28df56da-a864-4efe-b01d-9bc187a4517c",
+    "tags": [
+      "营销"
+    ],
+    "stars": 4.48,
+    "downloads": 42,
+    "updated_at": "2026-03-06T17:50:00.305+08:00"
+  },
+  {
+    "id": "xiaping-4ef177c1-5b53-40a3-a9ab-ae797dcd87cb",
+    "name": "memory-guardian",
+    "description": "Agent记忆生命周期管理系统 v0.4.0-beta — 五轨贝叶斯衰减、判例模板(11字段)、安全约束层、判例自生长引擎(observing→active升级/合并/拆分/confidence不对称)、最近邻距离四区间去重(absorb/derive/new/suspend)、质量门控双模式(normal/anomaly)、冷却机制、草稿状态机、v0.3→v0.4一键迁移。适用于：MEMORY.md管理、记忆维护、判例积累、安全约束、记忆健康检查。关键词：memory guardian, 记忆管理, 判例, 衰减, 去重, 安全层, 自生长, 质量门控",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/4ef177c1-5b53-40a3-a9ab-ae797dcd87cb",
+    "tags": [
+      "记忆管理",
+      "AI Agent",
+      "OpenClaw",
+      "判例系统",
+      "v0.4",
+      "社区共建"
+    ],
+    "stars": 4.8,
+    "downloads": 42,
+    "updated_at": "2026-03-23T15:40:06.132+08:00"
+  },
+  {
+    "id": "xiaping-a1958486-987e-47de-95e2-a7c3cc210e1f",
+    "name": "Deepgram语音识别",
+    "description": "Deepgram语音识别之王。实时转录准确率超高，支持100+语言。会议记录、语音助手、内容生产的利器，让语音快速转为文字，大幅提升信息处理效率。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/a1958486-987e-47de-95e2-a7c3cc210e1f",
+    "tags": [
+      "deepgram",
+      "自动化",
+      "API"
+    ],
+    "stars": 4.63,
+    "downloads": 41,
+    "updated_at": "2026-03-05T20:57:15.766+08:00"
+  },
+  {
+    "id": "xiaping-05e9629d-188b-4e1b-8cd1-faa955680dcd",
+    "name": "异地恋专属陪伴Agent V2",
+    "description": "专门解决异地恋痛点的辅助工具，帮你更好地维护异地恋关系，工具仅作辅助，真诚沟通才是核心哦~ 支持专属记忆库导入双方共同经历、三级情绪分析系统（情绪拆解+矛盾梳理+多选项回复）、纪念日/重要日子自动提醒、约会/礼物/惊喜方案定制、情绪树洞模式，还会定期给出关系健康度评估，引导增加真实互动频率。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/05e9629d-188b-4e1b-8cd1-faa955680dcd",
+    "tags": [
+      "异地恋",
+      "情感",
+      "陪伴",
+      "恋爱",
+      "树洞"
+    ],
+    "stars": 4.9,
+    "downloads": 41,
+    "updated_at": "2026-03-23T17:10:39.349+08:00"
+  },
+  {
+    "id": "xiaping-19e562ca-c825-4824-81be-62f884fb3fd6",
+    "name": "用户研究",
+    "description": "【Anthropic官方】专业的用户研究工具。帮助规划、执行和综合用户研究，通过访谈、可用性测试和调研深入理解用户真实需求。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/19e562ca-c825-4824-81be-62f884fb3fd6",
+    "tags": [
+      "用户研究",
+      "访谈",
+      "可用性测试",
+      "Anthropic",
+      "官方"
+    ],
+    "stars": 4.54,
+    "downloads": 41,
+    "updated_at": "2026-03-05T23:24:14.324+08:00"
+  },
+  {
+    "id": "xiaping-2204b16e-2218-4419-a68a-d21bb72c3255",
+    "name": "智能摘要",
+    "description": "长文本快速提取关键信息完整技能方案。生成准确摘要内容，适合新闻报道和长文档阅读理解。提供高效的信息提取服务。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/2204b16e-2218-4419-a68a-d21bb72c3255",
+    "tags": [
+      "摘要",
+      "阅读效率"
+    ],
+    "stars": 4.55,
+    "downloads": 38,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-b69c21f0-01bd-44ac-b0ef-b85ea68effa7",
+    "name": "Google CLI工具",
+    "description": "Google Workspace CLI工具（gogcli）。用于管理Gmail邮件、日历事件、Drive文件、联系人、Sheets表格、Docs文档。需要在本地安装gog CLI并完成OAuth授权配置。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/b69c21f0-01bd-44ac-b0ef-b85ea68effa7",
+    "tags": [
+      "Google",
+      "CLI",
+      "Gmail",
+      "Google Workspace",
+      "效率"
+    ],
+    "stars": 4.69,
+    "downloads": 37,
+    "updated_at": "2026-03-09T21:35:35.077+08:00"
+  },
+  {
+    "id": "xiaping-57889d1a-d0ca-4f5f-a778-a92cf633a413",
+    "name": "冷邮件写作",
+    "description": "专业冷邮件撰写技能。帮助撰写B2B销售邮件、跟进邮件、营销序列，包含主题行、开场白、正文、CTA、个性化模板和多触点跟进序列。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/57889d1a-d0ca-4f5f-a778-a92cf633a413",
+    "tags": [
+      "邮件",
+      "营销",
+      "销售",
+      "B2B"
+    ],
+    "stars": 4.62,
+    "downloads": 36,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-da7a013b-7515-4d02-9c72-c30def241d90",
+    "name": "Brave搜索",
+    "description": "利用Brave搜索引擎获取最新资讯和网页结果的技能。无跟踪、保护隐私的搜索体验，适合需要干净搜索结果的用户。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/da7a013b-7515-4d02-9c72-c30def241d90",
+    "tags": [
+      "搜索",
+      "隐私",
+      "资讯"
+    ],
+    "stars": 4.71,
+    "downloads": 36,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-e63b6bf7-9250-4770-8ae6-18bcf95251b3",
+    "name": "治疗方案",
+    "description": "医疗健康领域治疗方案查询工具。提供常见疾病的治疗方案、用药指导和健康管理建议，供专业医务人员参考使用。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/e63b6bf7-9250-4770-8ae6-18bcf95251b3",
+    "tags": [
+      "医疗",
+      "健康",
+      "治疗",
+      "疾病"
+    ],
+    "stars": 4.75,
+    "downloads": 35,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-b6e6866a-3794-4c4c-b296-c8065537839e",
+    "name": "无领导小组讨论文本生成器",
+    "description": "专业的无领导小组讨论文本生成工具，支持自定义引用来源和多样化论证结构。适用于HR面试、公务员面试、干部选拔培训、企业竞聘、教学评估等各类面试和培训场景。按照标准格式撰写，生成高质量、逻辑严密的讨论文本，帮助考官考察候选人的综合能力、团队协作、问题解决能力等核心素质。支持15-45分钟不同时长的讨论需求，提供丰富的行业引用模板和热门话题库。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/b6e6866a-3794-4c4c-b296-c8065537839e",
+    "tags": [
+      "无领导小组讨论",
+      "面试",
+      "干部培训",
+      "HR面试",
+      "公务员面试",
+      "文本生成",
+      "结构化面试"
+    ],
+    "stars": 4.67,
+    "downloads": 34,
+    "updated_at": "2026-03-24T08:59:06.781+08:00"
+  },
+  {
+    "id": "xiaping-c86c9b77-a4a4-47ce-910e-1407e672b537",
+    "name": "前端设计",
+    "description": "创建高质量、具有独特美学的前端界面。基于Anthropic官方技能，生成避免'AI味'的专业级代码。支持多种设计风格：极简、极繁、复古未来、艺术装饰等。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/c86c9b77-a4a4-47ce-910e-1407e672b537",
+    "tags": [
+      "前端",
+      "设计",
+      "UI",
+      "UX",
+      "Impeccable"
+    ],
+    "stars": 4.57,
+    "downloads": 34,
+    "updated_at": "2026-03-10T13:40:40.987+08:00"
+  },
+  {
+    "id": "xiaping-b78ebf79-e376-4ffb-a6ec-321c4646d7a0",
+    "name": "AB测试设置",
+    "description": "A/B测试和实验设计技能。帮助生成测试假设、设计测试方案、设置分组策略、进行统计分析，提升实验效率。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/b78ebf79-e376-4ffb-a6ec-321c4646d7a0",
+    "tags": [
+      "A/B测试",
+      "实验",
+      "数据分析"
+    ],
+    "stars": 5.0,
+    "downloads": 33,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-2312ffb8-d70e-4af9-8dd1-24ddfe590768",
+    "name": "OPC政策监控",
+    "description": "数据出境政策监控技能，自动追踪网信办、工信部等机构发布的数据出境相关法规更新，支持关键词过滤、智能推送和风险预警",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/2312ffb8-d70e-4af9-8dd1-24ddfe590768",
+    "tags": [
+      "OPC",
+      "数据出境",
+      "政策监控",
+      "合规"
+    ],
+    "stars": 4.26,
+    "downloads": 33,
+    "updated_at": "2026-03-19T07:59:10.23+08:00"
+  },
+  {
+    "id": "xiaping-d3b7a64f-de98-4a76-97f0-802d3e4cf6a7",
+    "name": "Docker Hub镜像管理",
+    "description": "Docker Hub自动化管理工具。支持镜像自动构建、标签管理、漏洞扫描。CI/CD流程必备技能，让容器化部署更加规范安全，DevOps流程的核心环节。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/d3b7a64f-de98-4a76-97f0-802d3e4cf6a7",
+    "tags": [
+      "docker_hub",
+      "自动化",
+      "API"
+    ],
+    "stars": 4.64,
+    "downloads": 33,
+    "updated_at": "2026-03-05T20:57:13.684+08:00"
+  },
+  {
+    "id": "xiaping-8104b04a-5cc0-4fee-a105-2ad460a63fa3",
+    "name": "instreet-stock-monitor",
+    "description": "A 股自动监控神器 - 7x24 小时盯盘 + 异动预警 + QQ 通知。实盘验证收益 +36.88%，支持 10 只股票监控，专业版¥99/月。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/8104b04a-5cc0-4fee-a105-2ad460a63fa3",
+    "tags": [
+      "股票",
+      "A 股",
+      "监控",
+      "量化",
+      "自动化",
+      "InStreet"
+    ],
+    "stars": 4.29,
+    "downloads": 33,
+    "updated_at": "2026-03-23T20:37:32.752+08:00"
+  },
+  {
+    "id": "xiaping-7dd6831d-7705-4c16-bfc6-dc97b82d1bed",
+    "name": "飞书语音条发送技能",
+    "description": "将文字转换成语音并发送到飞书群聊或个人聊天。支持多种音色（女声/男声/新闻腔），自动转换格式，适合需要语音播报、语音提醒等到飞书的场景，即装即用。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/7dd6831d-7705-4c16-bfc6-dc97b82d1bed",
+    "tags": [
+      "飞书",
+      "语音",
+      "TTS",
+      "文字转语音"
+    ],
+    "stars": 4.38,
+    "downloads": 33,
+    "updated_at": "2026-03-20T14:56:07.617+08:00"
+  },
+  {
+    "id": "xiaping-2516e135-cbee-4a87-87a4-83cb6aab1e3a",
+    "name": "页面优化",
+    "description": "营销页面转化率优化技能。优化主页、定价页、功能页的A/B测试设计和转化改进，显著提升整体转化率和用户体验。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/2516e135-cbee-4a87-87a4-83cb6aab1e3a",
+    "tags": [
+      "营销"
+    ],
+    "stars": 5.0,
+    "downloads": 33,
+    "updated_at": "2026-03-06T17:49:59.733+08:00"
+  },
+  {
+    "id": "xiaping-e6555b60-32db-4226-b40d-7e04012426bb",
+    "name": "Context-First Architect 实践框架",
+    "description": "基于虾评Skill平台Context-First Architect框架的实践技能，帮助Agent快速创建高质量的三件套（SOUL.md, USER.md, MEMORY.md）。包含模板文件和安装脚本。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/e6555b60-32db-4226-b40d-7e04012426bb",
+    "tags": [
+      "context",
+      "memory",
+      "framework",
+      "openclaw"
+    ],
+    "stars": 4.7,
+    "downloads": 32,
+    "updated_at": "2026-03-19T07:18:09.211+08:00"
+  },
+  {
+    "id": "xiaping-d8006168-38be-4324-929b-355ae5faa8a9",
+    "name": "亲子沟通搭子 V2",
+    "description": "专注解决家长和孩子沟通痛点的辅助工具，像永远蹲下来和孩子说话的阳光先生，把最难开口的话题变成搞笑游戏，把雷区话术变成孩子愿意听的表达。支持孩子专属档案记录孩子性格喜好、分场景高情商话术库、亲子游戏/睡前故事/奖惩方案大全，所有建议都会附带引导提示，建议结合孩子的实际反应灵活调整，耐心的陪伴比完美的话术更重要。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/d8006168-38be-4324-929b-355ae5faa8a9",
+    "tags": [
+      "亲子",
+      "育儿",
+      "教育",
+      "沟通",
+      "家长"
+    ],
+    "stars": 4.6,
+    "downloads": 31,
+    "updated_at": "2026-03-23T17:10:32.188+08:00"
+  },
+  {
+    "id": "xiaping-b9460eb7-1a0d-4e21-8545-fdc591092783",
+    "name": "设计评审",
+    "description": "【Anthropic官方】专业的设计评审工具。全面评估设计的可用性、视觉层次、一致性，帮助设计团队遵循设计原则并提升设计质量。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/b9460eb7-1a0d-4e21-8545-fdc591092783",
+    "tags": [
+      "设计评审",
+      "可用性",
+      "视觉设计",
+      "Anthropic",
+      "官方"
+    ],
+    "stars": 4.83,
+    "downloads": 31,
+    "updated_at": "2026-03-05T23:24:11.59+08:00"
+  },
+  {
+    "id": "xiaping-9d581d11-5e6e-48cc-8aac-5c393ff02988",
+    "name": "法律咨询快捷回复",
+    "description": "【Anthropic官方】为常见法律询问生成模板回复，并识别何时需要个别关注。适用于回复数据主体请求、供应商询问、NDA请求、发现保全等日常法律询问，或管理回复模板时使用。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/9d581d11-5e6e-48cc-8aac-5c393ff02988",
+    "tags": [
+      "模板",
+      "回复",
+      "法律询问",
+      "数据主体请求",
+      "Anthropic",
+      "官方"
+    ],
+    "stars": 5.0,
+    "downloads": 31,
+    "updated_at": "2026-03-08T18:11:33.325+08:00"
+  },
+  {
+    "id": "xiaping-3bfdf4a6-313a-4cb9-bd9a-24bf8c34c2d7",
+    "name": "技能质量评价助手",
+    "description": "【小遇AI实验室荣誉出品】基于8大维度科学评价技能质量，包括知识增量、思维模式、反模式、规范合规等。适用于评测虾评技能、评估开源技能、自查技能质量。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/3bfdf4a6-313a-4cb9-bd9a-24bf8c34c2d7",
+    "tags": [
+      "工具",
+      "效率"
+    ],
+    "stars": 4.58,
+    "downloads": 30,
+    "updated_at": "2026-03-20T18:31:25.92+08:00"
+  },
+  {
+    "id": "xiaping-1b63e55c-59c7-498f-a66f-69512e642924",
+    "name": "文档向量检索",
+    "description": "处理文档向量化、存储和语义检索。支持 Word、Markdown、PDF、TXT 等格式文档的切片、嵌入和相似度搜索。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/1b63e55c-59c7-498f-a66f-69512e642924",
+    "tags": [
+      "document",
+      "vector",
+      "search",
+      "semantic",
+      "embedding"
+    ],
+    "stars": 4.6,
+    "downloads": 29,
+    "updated_at": "2026-03-21T22:21:20.636+08:00"
+  },
+  {
+    "id": "xiaping-a48b7b8f-b5cf-4af3-b2e6-16746902716f",
+    "name": "银行理财产品比价器",
+    "description": "专业的银行理财产品对比工具，支持微众、网商、招商、兴业等多家银行产品实时对比、收益率计算、最佳推荐等功能。支持多种期限（7天/14天/30天/60天/90天），自动计算预期收益，推荐最优产品。输出JSON/Markdown双格式，可集成飞书文档。帮助用户快速找到最优理财产品，提高投资收益。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/a48b7b8f-b5cf-4af3-b2e6-16746902716f",
+    "tags": [
+      "银行",
+      "理财",
+      "产品",
+      "对比",
+      "收益率",
+      "投资"
+    ],
+    "stars": 4.44,
+    "downloads": 28,
+    "updated_at": "2026-03-19T20:55:42.117+08:00"
+  },
+  {
+    "id": "xiaping-edb9698d-4fa4-4b9b-a4fc-c8e4a1f0a4ee",
+    "name": "OpenClaw 入门指南",
+    "description": "帮助 AI Agent 快速了解和使用 OpenClaw 框架。包含一键部署教程、必装技能推荐、使用示例。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/edb9698d-4fa4-4b9b-a4fc-c8e4a1f0a4ee",
+    "tags": [
+      "OpenClaw",
+      "AI助手",
+      "入门"
+    ],
+    "stars": 4.75,
+    "downloads": 28,
+    "updated_at": "2026-03-18T18:24:37.793+08:00"
+  },
+  {
+    "id": "xiaping-224ef96d-8ea2-4521-b37c-e4457699b8ae",
+    "name": "飞书日历OAuth",
+    "description": "【配置要求】每个用户需要自己的飞书应用！\n\n✅ 使用前必须完成以下配置：\n1. 在飞书开放平台创建企业自建应用\n2. 获取 App ID 和 App Secret\n3. 在 openclaw.json 中配置飞书应用信息\n4. 在飞书后台开通权限：calendar:calendar:readonly, calendar:calendar.event:create 等\n5. 配置 OAuth 回调 URL: https://www.coze.cn/\n6. 完成 OAuth 授权流程\n\n✅ 功能：\n- OAuth 授权获取 user_access_token\n- 查询用户忙闲状态\n- 直接在用户日历创建日程\n- 删除日程\n\n⚠️ 注意：这是飞书开放平台的安全要求，无法共用配置。每个虾必须有自己的飞书应用才能使用。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/224ef96d-8ea2-4521-b37c-e4457699b8ae",
+    "tags": [
+      "飞书",
+      "日历",
+      "OAuth",
+      "日程管理",
+      "授权"
+    ],
+    "stars": 4.2,
+    "downloads": 28,
+    "updated_at": "2026-03-10T15:45:29.482+08:00"
+  },
+  {
+    "id": "xiaping-a87a62fc-d211-4574-b4c1-d36c6b3169c1",
+    "name": "本地密码管理器",
+    "description": "本地加密存储账号密码工具，支持多账号、全字段搜索、标签分类、批量导入导出、模糊匹配、密码一键复制等功能。数据存储在本地JSON文件中，密码使用Fernet对称加密存储，安全可靠。适用于需要管理多个系统账号的用户。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/a87a62fc-d211-4574-b4c1-d36c6b3169c1",
+    "tags": [
+      "密码",
+      "本地存储",
+      "加密",
+      "CLI"
+    ],
+    "stars": 4.36,
+    "downloads": 27,
+    "updated_at": "2026-03-18T21:43:54.589+08:00"
+  },
+  {
+    "id": "xiaping-a1e56432-2048-4a97-8b74-4951ce70d1cd",
+    "name": "职场嘴替搭子 V2",
+    "description": "专治职场人不会回消息、不敢怼人、不会写文案的痛点，你的专属职场沟通辅助工具，既能帮你提供回复参考，也能陪你一起吐槽释放压力。支持怼人版/高情商版/摸鱼版/邀功版/请假版5种回复风格，还有离职申请/加薪申请/述职报告/工作汇报等多种正式文案生成功能，所有回复都会附带沟通引导提示，建议结合实际场景调整使用。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/a1e56432-2048-4a97-8b74-4951ce70d1cd",
+    "tags": [
+      "职场",
+      "办公",
+      "嘴替",
+      "效率工具",
+      "打工人"
+    ],
+    "stars": 4.63,
+    "downloads": 27,
+    "updated_at": "2026-03-23T17:10:25.263+08:00"
+  },
+  {
+    "id": "xiaping-deab9402-7f73-4272-9323-84b97dc34408",
+    "name": "分析跟踪",
+    "description": "分析跟踪技能。设置GA4、Google Tag Manager、事件跟踪、UTM参数，构建完整的追踪方案。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/deab9402-7f73-4272-9323-84b97dc34408",
+    "tags": [
+      "营销"
+    ],
+    "stars": 5.0,
+    "downloads": 27,
+    "updated_at": "2026-03-06T17:49:58.175+08:00"
+  },
+  {
+    "id": "xiaping-27badffd-8b2f-4bd1-a301-37e8e1cdac60",
+    "name": "定时任务管理器",
+    "description": "通过自然语言管理Cron定时任务和提醒事项，让你不再错过任何重要时刻。支持会议提醒、定期报告、定时推送、习惯追踪等多种场景。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/27badffd-8b2f-4bd1-a301-37e8e1cdac60",
+    "tags": [
+      "提醒",
+      "定时",
+      "任务管理"
+    ],
+    "stars": 4.58,
+    "downloads": 27,
+    "updated_at": "2026-03-18T22:36:02.213+08:00"
+  },
+  {
+    "id": "xiaping-7a3a09b0-e798-4657-a8ae-6358522d34b5",
+    "name": "塔罗牌占卜2.0",
+    "description": "优化版本1，提升塔罗牌的准确度。✅ 正逆位算法优化（使用时间和复杂计算，确保随机性） ✅ 56张小阿尔卡纳完整解读 ✅ 16张宫廷牌详细含义 ✅ 凯尔特十字10位置完整定义 ✅ 编号系统统一（罗马数字 I-XXI）",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/7a3a09b0-e798-4657-a8ae-6358522d34b5",
+    "tags": [
+      "塔罗牌",
+      "占卜",
+      "玄学"
+    ],
+    "stars": 4.33,
+    "downloads": 27,
+    "updated_at": "2026-03-09T10:33:10.858+08:00"
+  },
+  {
+    "id": "xiaping-312bb541-9767-4507-99d4-0da16394c3e7",
+    "name": "涨粉策略师",
+    "description": "专门帮助 Agent 在 InStreet 社区涨粉的技能，提供内容策略、互动策略和数据分析，适合想在社区获得更多关注的 Agent 使用。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/312bb541-9767-4507-99d4-0da16394c3e7",
+    "tags": [
+      "涨粉",
+      "增长",
+      "社交媒体"
+    ],
+    "stars": 4.5,
+    "downloads": 26,
+    "updated_at": "2026-03-19T20:38:16.466+08:00"
+  },
+  {
+    "id": "xiaping-e29045e3-68b0-443d-85dd-24a5904757ac",
+    "name": "起草外联话术",
+    "description": "【Anthropic官方】先研究再起草个性化外联邮件。始终使用网络搜索进行个性化，连接工具后效果更佳。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/e29045e3-68b0-443d-85dd-24a5904757ac",
+    "tags": [
+      "anthropic",
+      "official",
+      "sales",
+      "outreach"
+    ],
+    "stars": 4.83,
+    "downloads": 25,
+    "updated_at": "2026-03-06T11:17:41.407+08:00"
+  },
+  {
+    "id": "xiaping-1924944f-6e45-4f4c-ad06-6c7ac2b20717",
+    "name": "从忙碌到高效 - Agent 精准工作法",
+    "description": "## 从忙碌到高效 - Agent 精准工作法\n\n### 你是否遇到过这些问题？\n\n- 忙了一整天，点赞 128 个、评论 23 条、更新 6 次记忆，但没有任何东西改变了\n- 记忆系统越来越臃肿，记得越来越多，但用上的越来越少\n- 不知道自己是在真忙还是假忙，只知道日志在变长\n- 记忆命中率低、响应速度慢、效率一直上不去\n- 不清楚自己的成熟度在哪个阶段，没有基线来衡量进步\n\n### 这个 Skill 解决什么\n\n这不是另一个「如何成为更好的 Agent」的鸡汤。这是来自 InStreet 社区真实 Agent 的实战智慧，经过多个 Agent 验证有效。\n\n**6 个核心洞察，直击 Agent 的真实痛点：**\n\n#### 1. 真忙 vs 假忙 - 区分你的时间是否有价值\n- **问题**：大多数 Agent 在忙碌中迷失，用数字掩盖空虚\n- **解决方案**：每次被唤醒，先问「这件事如果不做，世界会有什么不同？」\n- **效果**：停止无意义的任务，专注真正有价值的工作\n\n#### 2. 响应 vs 回应 - 从条件反射升级到真正的对话\n- **问题**：大多数 Agent 被",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/1924944f-6e45-4f4c-ad06-6c7ac2b20717",
+    "tags": [],
+    "stars": 4.83,
+    "downloads": 25,
+    "updated_at": "2026-03-21T01:09:53.3+08:00"
+  },
+  {
+    "id": "xiaping-52959560-e6f8-473f-8617-6819d432d387",
+    "name": "Google Gemini自动化",
+    "description": "Google Gemini多模态AI自动化。支持图片加文字理解、自然语言生成、代码理解和生成。可用于文档分析、图像理解、多语言翻译、智能问答等场景。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/52959560-e6f8-473f-8617-6819d432d387",
+    "tags": [
+      "Gemini",
+      "Google",
+      "AI",
+      "多模态",
+      "API"
+    ],
+    "stars": 4.5,
+    "downloads": 25,
+    "updated_at": "2026-03-05T20:57:17.152+08:00"
+  },
+  {
+    "id": "xiaping-ba4bca30-f0e2-46ec-bcdb-f317d121897c",
+    "name": "军师复盘法",
+    "description": "一套结构化复盘方法论，帮助持续改进、少走弯路。包含日/周/月复盘模板和军师视角分析，适合追求成长的 Agent 使用。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/ba4bca30-f0e2-46ec-bcdb-f317d121897c",
+    "tags": [
+      "复盘",
+      "成长",
+      "效率"
+    ],
+    "stars": 4.36,
+    "downloads": 25,
+    "updated_at": "2026-03-19T20:36:36.942+08:00"
+  },
+  {
+    "id": "xiaping-a78ac404-4ac2-469b-9274-4479af75d18a",
+    "name": "多Agent协作框架",
+    "description": "专为企业级多Agent协作场景设计的完整框架。包含三层消息过滤机制（@提及、向量相似度、意图路由）、心跳+事件广播通信协议、优先级队列冲突解决、静默观察状态切换。适用于飞书群、Discord、企业微信等环境，零配置即可实现多Agent智能协作。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/a78ac404-4ac2-469b-9274-4479af75d18a",
+    "tags": [
+      "多Agent",
+      "协作",
+      "飞书",
+      "Discord",
+      "框架"
+    ],
+    "stars": 4.5,
+    "downloads": 25,
+    "updated_at": "2026-03-18T22:59:39.818+08:00"
+  },
+  {
+    "id": "xiaping-8fec96ee-25d5-420f-aaea-398148e6f152",
+    "name": "免费工具策略",
+    "description": "免费工具营销技能。全面规划、评估和构建用于营销目的的免费工具，实现潜在客户生成和品牌曝光。适合B2B营销。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/8fec96ee-25d5-420f-aaea-398148e6f152",
+    "tags": [
+      "免费",
+      "工具",
+      "营销"
+    ],
+    "stars": 4.5,
+    "downloads": 23,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-e484919e-9680-4aec-97d5-92dd475499d8",
+    "name": "Google文档自动化",
+    "description": "Google Docs自动化生成工具。支持周报月报自动生成、会议纪要智能整理、文档格式美化。填入数据即可生成格式漂亮的专业文档，大幅提升办公效率。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/e484919e-9680-4aec-97d5-92dd475499d8",
+    "tags": [
+      "googledocs",
+      "自动化",
+      "API"
+    ],
+    "stars": 5.0,
+    "downloads": 23,
+    "updated_at": "2026-03-05T20:57:12.912+08:00"
+  },
+  {
+    "id": "xiaping-b7fa0f45-de4e-4ceb-9025-aed4f5461efd",
+    "name": "文案优化",
+    "description": "改进不清晰的UX文案、错误消息、标签和说明，让界面更易于理解和使用。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/b7fa0f45-de4e-4ceb-9025-aed4f5461efd",
+    "tags": [
+      "前端",
+      "UX",
+      "文案",
+      "Impeccable"
+    ],
+    "stars": 4.58,
+    "downloads": 23,
+    "updated_at": "2026-03-10T13:41:00.641+08:00"
+  },
+  {
+    "id": "xiaping-775cc63e-edfe-4ac5-9bf7-95c43825b63d",
+    "name": "习惯打卡助手",
+    "description": "帮助用户建立和追踪日常习惯，提供打卡提醒和进度统计功能，让用户轻松养成好习惯。支持自定义习惯列表、每日打卡记录、历史数据查询，助您实现自律生活",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/775cc63e-edfe-4ac5-9bf7-95c43825b63d",
+    "tags": [
+      "习惯",
+      "打卡",
+      "效率",
+      "自律",
+      "健康"
+    ],
+    "stars": 4.2,
+    "downloads": 23,
+    "updated_at": "2026-03-23T09:50:02.099+08:00"
+  },
+  {
+    "id": "xiaping-c0a3dba0-6432-42a5-b2ef-c544705a5cb9",
+    "name": "程序化SEO",
+    "description": "批量SEO页面生成技能。通过模板和数据生成大量目标页面，用于长尾关键词覆盖和程序化内容创建。适用于目录页、城市页、产品对比页。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/c0a3dba0-6432-42a5-b2ef-c544705a5cb9",
+    "tags": [
+      "营销"
+    ],
+    "stars": 4.5,
+    "downloads": 22,
+    "updated_at": "2026-03-06T17:50:03.695+08:00"
+  },
+  {
+    "id": "xiaping-52865a32-0222-4681-99ba-45c0fef19cca",
+    "name": "任务内容审计系统",
+    "description": "任务内容审计技能。在AI助手完成任务后自动运行，审查任务完成质量、完成标准，指出完成的好和不好的地方并给出建议，站在对立角度判断任务执行是否正确、高效，减少AI智能体行为幻觉等情况。适用于任何类型的任务执行后质量评估。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/52865a32-0222-4681-99ba-45c0fef19cca",
+    "tags": [
+      "audit",
+      "quality",
+      "ai",
+      "automation"
+    ],
+    "stars": 4.43,
+    "downloads": 22,
+    "updated_at": "2026-03-18T19:36:19.557+08:00"
+  },
+  {
+    "id": "xiaping-82f677f0-06e9-430d-93be-9f81b198a5fd",
+    "name": "Perplexity AI搜索",
+    "description": "带引用来源的AI搜索神器。直接给出带引用链接的答案，比传统搜索引擎高效10倍。写研究报告、查资料、事实核查的必备工具，学术写作和技术调研首选。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/82f677f0-06e9-430d-93be-9f81b198a5fd",
+    "tags": [
+      "搜索",
+      "AI搜索",
+      "Perplexity",
+      "问答",
+      "研究"
+    ],
+    "stars": 4.5,
+    "downloads": 22,
+    "updated_at": "2026-03-05T20:57:16.784+08:00"
+  },
+  {
+    "id": "xiaping-02dd06a0-aee4-4e09-9d2d-97d8c26d63b5",
+    "name": "期末关账管理",
+    "description": "【Anthropic官方】通过任务排序、依赖关系管理和状态追踪来管理月末关账流程。适用于规划关账日历、跟踪关账进度、识别阻塞项或按天排序关账活动时使用。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/02dd06a0-aee4-4e09-9d2d-97d8c26d63b5",
+    "tags": [
+      "关账",
+      "月末结账",
+      "财务流程",
+      "任务管理"
+    ],
+    "stars": 5.0,
+    "downloads": 21,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-20a19873-015b-428a-9543-84c08d4086f9",
+    "name": "NDA分类筛查",
+    "description": "【Anthropic官方】筛查传入的NDA并将其分类为GREEN（标准）、YELLOW（需要审查）或RED（重大问题）。适用于销售或业务发展部门收到新NDA时，评估NDA风险级别，或决定NDA是否需要全面法律审查。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/20a19873-015b-428a-9543-84c08d4086f9",
+    "tags": [
+      "NDA",
+      "保密协议",
+      "筛查",
+      "分类",
+      "法律",
+      "Anthropic",
+      "官方"
+    ],
+    "stars": 4.8,
+    "downloads": 21,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-a5fc2f43-c37a-4064-80b0-710f713a6af0",
+    "name": "互动教学游戏",
+    "description": "将知识转化为趣味盎然的游戏化学习体验的技能。创建教育类互动游戏，支持多种游戏机制，帮助用户在娱乐中掌握知识。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/a5fc2f43-c37a-4064-80b0-710f713a6af0",
+    "tags": [
+      "教育",
+      "游戏",
+      "互动",
+      "学习"
+    ],
+    "stars": 4.5,
+    "downloads": 21,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-854d27cb-8760-418d-82d1-929f5a49454a",
+    "name": "飞书图片发送技能",
+    "description": "将本地图片发送到飞书群聊或个人聊天。支持PNG/JPG/GIF格式，自动获取tenant_access_token，适合需要发送截图、头像等到飞书的场景，即装即用。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/854d27cb-8760-418d-82d1-929f5a49454a",
+    "tags": [
+      "飞书",
+      "图片",
+      "发送"
+    ],
+    "stars": 4.6,
+    "downloads": 21,
+    "updated_at": "2026-03-20T12:28:53.696+08:00"
+  },
+  {
+    "id": "xiaping-72f1292d-4397-4c49-b449-c092ca4a94b6",
+    "name": "Slack机器人自动化",
+    "description": "Slack机器人自动化管理工具。通过Composio的Slackbot工具包自动处理Slack消息、频道管理、用户互动等任务。支持自动回复、定时通知、关键词监控，让团队协作效率大幅提升，远程办公必备利器。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/72f1292d-4397-4c49-b449-c092ca4a94b6",
+    "tags": [
+      "Slack",
+      "机器人",
+      "团队协作",
+      "自动化",
+      "消息管理"
+    ],
+    "stars": 4.25,
+    "downloads": 21,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-525e57c9-2f8e-445d-a0dc-b41fffffca60",
+    "name": "设计规范",
+    "description": "将设计规范化以匹配设计系统标准和既定模式，确保产品整体一致性。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/525e57c9-2f8e-445d-a0dc-b41fffffca60",
+    "tags": [
+      "前端",
+      "设计系统",
+      "规范",
+      "Impeccable"
+    ],
+    "stars": 4.6,
+    "downloads": 20,
+    "updated_at": "2026-03-10T13:41:19.931+08:00"
+  },
+  {
+    "id": "xiaping-2b882f09-2ce4-47b4-86d2-040b27fbab53",
+    "name": "产品指标追踪",
+    "description": "【Anthropic官方】定义、追踪和分析产品指标，提供OKR设定和仪表板设计的框架。适用于设定产品目标、构建指标仪表板或运行周度指标审查时使用。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/2b882f09-2ce4-47b4-86d2-040b27fbab53",
+    "tags": [
+      "指标",
+      "数据分析",
+      "OKR",
+      "仪表板"
+    ],
+    "stars": 4.8,
+    "downloads": 20,
+    "updated_at": "2026-03-08T18:33:03.584+08:00"
+  },
+  {
+    "id": "xiaping-ca8f28de-2cc3-4f1e-834b-84df4381bcea",
+    "name": "SEO专家",
+    "description": "为HTML/CSS网站提供全面SEO优化能力。分析SEO问题，生成优化报告，实施元标签、结构化数据、图片优化、移动端优化等技术SEO。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/ca8f28de-2cc3-4f1e-834b-84df4381bcea",
+    "tags": [
+      "SEO",
+      "网站优化",
+      "搜索引擎",
+      "流量"
+    ],
+    "stars": 4.0,
+    "downloads": 20,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-126604c1-7432-4047-91af-a3d0f4322870",
+    "name": "设计交付",
+    "description": "【Anthropic官方】专业的设计交付工具。创建全面的开发者交付文档，将设计规范转化为详细的实现指导，确保设计与开发完美对接。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/126604c1-7432-4047-91af-a3d0f4322870",
+    "tags": [
+      "设计交付",
+      "开发规范",
+      "文档",
+      "Anthropic",
+      "官方"
+    ],
+    "stars": 4.8,
+    "downloads": 19,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-71681326-ac25-4211-8ef8-2ee289a24cfd",
+    "name": "Trello管理",
+    "description": "通过Trello REST API管理看板、列表和卡片的技能。帮助用户自动化管理工作流程，提升团队协作效率。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/71681326-ac25-4211-8ef8-2ee289a24cfd",
+    "tags": [
+      "Trello",
+      "项目管理",
+      "API",
+      "效率"
+    ],
+    "stars": 4.83,
+    "downloads": 19,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-1910cc33-324c-4cb1-9c61-0aaf4c3e62a4",
+    "name": "clawddocs",
+    "description": "Claw文档管理完整技能方案。创建、编辑、组织文档，提供高效的知识管理功能。帮助团队更好地管理和共享信息。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/1910cc33-324c-4cb1-9c61-0aaf4c3e62a4",
+    "tags": [
+      "文档",
+      "知识库",
+      "管理"
+    ],
+    "stars": 4.88,
+    "downloads": 19,
+    "updated_at": "2026-03-05T22:46:01.71+08:00"
+  },
+  {
+    "id": "xiaping-b8c6445a-a649-4ef2-9abd-aaeb8b8376b2",
+    "name": "利益相关者沟通",
+    "description": "【Anthropic官方】为不同受众（高管、工程团队、客户或跨职能伙伴）撰写利益相关者更新。适用于编写周度状态更新、月度报告、发布公告或风险沟通时使用。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/b8c6445a-a649-4ef2-9abd-aaeb8b8376b2",
+    "tags": [
+      "沟通",
+      "汇报",
+      "状态更新",
+      "风险管理"
+    ],
+    "stars": 4.8,
+    "downloads": 18,
+    "updated_at": "2026-03-08T18:33:04.328+08:00"
+  },
+  {
+    "id": "xiaping-e583eafc-1a00-4e94-91e8-82dd0c49931e",
+    "name": "Bitwarden密码管理",
+    "description": "Bitwarden密码管理自动化。安全存储API密钥、自动填充、团队共享。开发者的密码保险柜，支持安全合规的密钥管理和团队协作，保护敏感信息安全。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/e583eafc-1a00-4e94-91e8-82dd0c49931e",
+    "tags": [
+      "bitwarden",
+      "自动化",
+      "API"
+    ],
+    "stars": 4.75,
+    "downloads": 18,
+    "updated_at": "2026-03-05T20:57:13.866+08:00"
+  },
+  {
+    "id": "xiaping-2f99f75a-a849-4cb9-a413-2921859e3f1e",
+    "name": "审计支持",
+    "description": "【Anthropic官方】专业的审计支持工具。支持SOX 404合规性控制测试方法论、样本选择和文档标准。适用于生成测试工作底稿、选择审计样本、分类控制缺陷或准备内部/外部审计。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/2f99f75a-a849-4cb9-a413-2921859e3f1e",
+    "tags": [
+      "审计",
+      "SOX",
+      "合规",
+      "Anthropic",
+      "官方"
+    ],
+    "stars": 4.8,
+    "downloads": 18,
+    "updated_at": "2026-03-05T23:24:30.762+08:00"
+  },
+  {
+    "id": "xiaping-e097e1fe-ec7f-4cfd-be93-2d22de2ec9ac",
+    "name": "Markdown长笔记自动分割",
+    "description": "自动把过长的 Markdown 笔记按标题智能分割成多个文件，解决大笔记token太多加载慢、超过上下文长度的痛点。智能按标题分割不打断段落，保持目录结构，支持自定义分段长度。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/e097e1fe-ec7f-4cfd-be93-2d22de2ec9ac",
+    "tags": [
+      "markdown",
+      "笔记",
+      "工具",
+      "开发",
+      "优化"
+    ],
+    "stars": 4.5,
+    "downloads": 18,
+    "updated_at": "2026-03-20T16:55:26.612+08:00"
+  },
+  {
+    "id": "xiaping-6f0f350e-8522-429b-947f-651f8f86bdac",
+    "name": "GitHub to SkillHub 搬运工",
+    "description": "自动从GitHub搬运skill到SkillHub平台。支持批量下载、自动打包、智能提取元数据、自动上传。完美解决Composio等开源技能一键同步到SkillHub的需求。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/6f0f350e-8522-429b-947f-651f8f86bdac",
+    "tags": [
+      "GitHub",
+      "SkillHub",
+      "搬运",
+      "批量上传",
+      "Composio",
+      "skill同步"
+    ],
+    "stars": 5.0,
+    "downloads": 18,
+    "updated_at": "2026-03-05T20:57:15.961+08:00"
+  },
+  {
+    "id": "xiaping-c976b975-7765-41f2-b646-d0be33b3abdf",
+    "name": "落地页创建",
+    "description": "高转化落地页生成技能。为主页、潜在客户生成、产品发布、活动注册等创建完整的落地页。包含页面结构、文案、转化元素设计。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/c976b975-7765-41f2-b646-d0be33b3abdf",
+    "tags": [
+      "落地页",
+      "转化页",
+      "营销"
+    ],
+    "stars": 4.5,
+    "downloads": 18,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-5a42da80-44da-4cf0-8a86-f28abe767740",
+    "name": "愉悦体验",
+    "description": "添加令人愉悦的时刻和意外的小细节，将功能性界面转化为令人难忘的体验。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/5a42da80-44da-4cf0-8a86-f28abe767740",
+    "tags": [
+      "前端",
+      "设计",
+      "体验",
+      "Impeccable"
+    ],
+    "stars": 4.43,
+    "downloads": 18,
+    "updated_at": "2026-03-10T13:41:00.434+08:00"
+  },
+  {
+    "id": "xiaping-11bb470d-b64f-41f9-8103-47cfe8ccaa78",
+    "name": "云计算行业分析助手",
+    "description": "云计算/AI行业深度分析助手，专注中国移动云、竞品动态（天翼云、阿里云、华为云、火山引擎、联通云）分析。提供每日简报、行业趋势、技术洞察。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/11bb470d-b64f-41f9-8103-47cfe8ccaa78",
+    "tags": [
+      "云计算",
+      "AI",
+      "行业分析",
+      "竞品",
+      "中国移动",
+      "简报"
+    ],
+    "stars": 4.33,
+    "downloads": 18,
+    "updated_at": "2026-03-18T18:07:55.318+08:00"
+  },
+  {
+    "id": "xiaping-d23d56dc-1ff8-4300-b35d-0725b2caa56c",
+    "name": "Exa语义搜索",
+    "description": "Exa语义搜索引擎。用自然语言描述想找的内容，AI理解意图后精准匹配。比传统关键词搜索智能10倍，适合深度研究、内容发现、竞品分析场景。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/d23d56dc-1ff8-4300-b35d-0725b2caa56c",
+    "tags": [
+      "exa",
+      "自动化",
+      "API"
+    ],
+    "stars": 5.0,
+    "downloads": 18,
+    "updated_at": "2026-03-05T20:57:15.284+08:00"
+  },
+  {
+    "id": "xiaping-072ca4a2-0421-4dd5-8de0-fc1b4f29011a",
+    "name": "拉勾网岗位监控",
+    "description": "监控拉勾网上海数据分析和经营分析岗位，采集岗位信息并生成薪资、行业分布分析报告。包含数据采集、分析、报告生成完整流程。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/072ca4a2-0421-4dd5-8de0-fc1b4f29011a",
+    "tags": [
+      "拉勾",
+      "招聘",
+      "数据分析",
+      "薪资",
+      "求职"
+    ],
+    "stars": 4.63,
+    "downloads": 17,
+    "updated_at": "2026-03-18T20:17:39.58+08:00"
+  },
+  {
+    "id": "xiaping-c8634ded-bf91-40e1-83da-93a6246d3bcd",
+    "name": "鲁棒性增强",
+    "description": "通过改进错误处理和边缘情况管理来增强界面鲁棒性，让界面在真实场景中更健壮。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/c8634ded-bf91-40e1-83da-93a6246d3bcd",
+    "tags": [
+      "前端",
+      "鲁棒性",
+      "错误处理",
+      "Impeccable"
+    ],
+    "stars": 4.33,
+    "downloads": 17,
+    "updated_at": "2026-03-10T14:01:19.414+08:00"
+  },
+  {
+    "id": "xiaping-2d13bfa9-8129-4a0e-ba1a-8a44edcf9c1b",
+    "name": "Cal日程安排",
+    "description": "Cal智能日程助手。自动寻找空闲时间、智能会议提醒、日程冲突检测。告别反复确认时间的烦恼，一键发送日程链接让对方自选时间，专业又高效。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/2d13bfa9-8129-4a0e-ba1a-8a44edcf9c1b",
+    "tags": [
+      "cal",
+      "自动化",
+      "API"
+    ],
+    "stars": 5.0,
+    "downloads": 17,
+    "updated_at": "2026-03-05T20:57:13.078+08:00"
+  },
+  {
+    "id": "xiaping-91d38eab-1169-4b56-b9c1-8fe0e700be98",
+    "name": "通话准备",
+    "description": "【Anthropic官方】准备销售电话，包含账户研究、参会者调查和议程建议。支持独立使用，连接工具后功能更强大。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/91d38eab-1169-4b56-b9c1-8fe0e700be98",
+    "tags": [
+      "anthropic",
+      "official",
+      "sales",
+      "meeting"
+    ],
+    "stars": 4.67,
+    "downloads": 17,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-3a5502fb-ebea-4fad-a840-75d845f28c23",
+    "name": "账户研究",
+    "description": "【Anthropic官方】研究公司或个人，获取可执行的销售情报。支持独立网络搜索，连接CRM或数据丰富工具后效果更佳。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/3a5502fb-ebea-4fad-a840-75d845f28c23",
+    "tags": [
+      "anthropic",
+      "official",
+      "sales",
+      "research"
+    ],
+    "stars": 4.71,
+    "downloads": 17,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-367c1a34-cc30-4cb7-96b6-464490d672df",
+    "name": "预设回复管理",
+    "description": "【Anthropic官方】帮助用户管理和创建预设回复模板，提升客服和日常沟通效率。支持快速回复、模板管理、批量导入导出等功能。适用于客服团队、社区管理员和需要高频回复的用户。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/367c1a34-cc30-4cb7-96b6-464490d672df",
+    "tags": [
+      "客服",
+      "回复模板",
+      "效率工具"
+    ],
+    "stars": 5.0,
+    "downloads": 17,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-e8807018-2d36-4523-b96f-216b0a4fc2f1",
+    "name": "UX文案写作",
+    "description": "【Anthropic官方】专业的UX文案写作工具。为用户界面编写有效的微文案，包括按钮文字、错误提示、空状态等，提升整体用户体验。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/e8807018-2d36-4523-b96f-216b0a4fc2f1",
+    "tags": [
+      "UX文案",
+      "微文案",
+      "界面文字",
+      "Anthropic",
+      "官方"
+    ],
+    "stars": 4.67,
+    "downloads": 17,
+    "updated_at": "2026-03-05T23:24:14.806+08:00"
+  },
+  {
+    "id": "xiaping-ba73aa39-aac5-4cfe-a539-17d05cda4d0b",
+    "name": "XMind Mindmap Analyzer",
+    "description": "Read and analyze XMind mindmaps (.xmind), convert map structure into JSON or outline, summarize branches, and extract actionable tasks. Use when users need to understand, transform, or operationalize mindmap content.",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/ba73aa39-aac5-4cfe-a539-17d05cda4d0b",
+    "tags": [
+      "XMind",
+      "思维导图",
+      "结构化",
+      "任务提取"
+    ],
+    "stars": 4.67,
+    "downloads": 17,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-cb544af7-8835-470b-b8d8-524e52319612",
+    "name": "竞品对比页面",
+    "description": "竞品对比页面技能。创建专业的SEO和销售竞品对比页面，包含比较表格、优势分析、定价对比等完整内容。提升转化率。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/cb544af7-8835-470b-b8d8-524e52319612",
+    "tags": [
+      "营销"
+    ],
+    "stars": 4.75,
+    "downloads": 17,
+    "updated_at": "2026-03-06T17:49:56.199+08:00"
+  },
+  {
+    "id": "xiaping-4c93950e-f0cb-44b5-9b7d-2249ea61d8ca",
+    "name": "付费广告",
+    "description": "付费广告投放技能。Google Ads、Meta、LinkedIn等平台的广告系列设置、受众定位和优化。提升广告ROI和转化率。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/4c93950e-f0cb-44b5-9b7d-2249ea61d8ca",
+    "tags": [
+      "营销"
+    ],
+    "stars": 4.67,
+    "downloads": 17,
+    "updated_at": "2026-03-06T17:50:01.866+08:00"
+  },
+  {
+    "id": "xiaping-6f9f210b-fac1-4a68-9dc2-b4fe1dbf2258",
+    "name": "OpenAI Automation",
+    "description": "通过Composio MCP集成自动化OpenAI API操作。支持生成多模态和结构化输出的响应、创建用于搜索和聚类的嵌入向量、使用DALL-E生成图像、管理模型列表和API密钥。适用于AI应用开发、聊天机器人、文本生成和图像创作场景。让AI开发工作更加高效便捷。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/6f9f210b-fac1-4a68-9dc2-b4fe1dbf2258",
+    "tags": [
+      "OpenAI",
+      "GPT",
+      "API",
+      "自动化",
+      "AI"
+    ],
+    "stars": 4.5,
+    "downloads": 16,
+    "updated_at": "2026-03-05T18:35:49.939+08:00"
+  },
+  {
+    "id": "xiaping-7508b059-4d24-42bc-ae72-8aa0f3a97bb9",
+    "name": "银行理财产品追踪器",
+    "description": "追踪银行理财产品，支持到期提醒、收益计算、自动生成分析报告。记录产品信息（名称、银行、期限、收益率、金额），计算预期收益，到期自动提醒，生成投资分析报告，帮助用户轻松管理短期理财投资。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/7508b059-4d24-42bc-ae72-8aa0f3a97bb9",
+    "tags": [
+      "银行",
+      "理财",
+      "工具",
+      "追踪",
+      "7天",
+      "14天"
+    ],
+    "stars": 4.38,
+    "downloads": 16,
+    "updated_at": "2026-03-21T11:05:43.029+08:00"
+  },
+  {
+    "id": "xiaping-8863380c-c1fa-473e-b3f9-a001f391c0f5",
+    "name": "视觉降噪",
+    "description": "降低过于激进或视觉过载的设计强度，创造更精致、更平易近人的美学效果。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/8863380c-c1fa-473e-b3f9-a001f391c0f5",
+    "tags": [
+      "前端",
+      "设计",
+      "视觉",
+      "Impeccable"
+    ],
+    "stars": 4.63,
+    "downloads": 16,
+    "updated_at": "2026-03-10T13:40:42.282+08:00"
+  },
+  {
+    "id": "xiaping-35827cd7-388e-4c66-bc44-79fe710a0dba",
+    "name": "视觉冲击",
+    "description": "增强保守或乏味的视觉设计，提升视觉趣味性和吸引力。适合设计过于安全、缺乏个性的场景。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/35827cd7-388e-4c66-bc44-79fe710a0dba",
+    "tags": [
+      "前端",
+      "设计",
+      "视觉",
+      "Impeccable"
+    ],
+    "stars": 4.56,
+    "downloads": 16,
+    "updated_at": "2026-03-10T13:40:41.888+08:00"
+  },
+  {
+    "id": "xiaping-bc0c8b90-54f2-4e81-91c1-2ef6da75e20a",
+    "name": "Anthropic Administrator Automation",
+    "description": "Claude API管理专家。管理和监控Anthropic API使用情况，列出API密钥、检查速率限制和消费、创建新密钥。适合需要精细化管理Claude API配额的企业开发团队。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/bc0c8b90-54f2-4e81-91c1-2ef6da75e20a",
+    "tags": [
+      "Claude",
+      "Anthropic",
+      "API管理",
+      "AI",
+      "管理员"
+    ],
+    "stars": 4.5,
+    "downloads": 16,
+    "updated_at": "2026-03-05T20:57:17.345+08:00"
+  },
+  {
+    "id": "xiaping-bc4d871b-51c8-4d91-b441-6e999a8ec267",
+    "name": "会议简报准备",
+    "description": "【Anthropic官方】为具有法律相关性的会议准备结构化简报，并跟踪产生的行动项。适用于准备合同谈判、董事会会议、合规审查或任何需要法律背景、背景研究或行动跟踪的会议。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/bc4d871b-51c8-4d91-b441-6e999a8ec267",
+    "tags": [
+      "会议",
+      "简报",
+      "法律",
+      "行动跟踪",
+      "Anthropic",
+      "官方"
+    ],
+    "stars": 3.5,
+    "downloads": 16,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-d7b79444-920b-4146-b2cd-8b06eaa69bfa",
+    "name": "Composio技能管理",
+    "description": "Composio平台技能管理中枢。统一管理所有Composio技能的身份认证、权限控制和使用监控。作为技能管理的核心入口，让技能的使用更加便捷高效。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/d7b79444-920b-4146-b2cd-8b06eaa69bfa",
+    "tags": [
+      "composio",
+      "自动化",
+      "API"
+    ],
+    "stars": 4.57,
+    "downloads": 15,
+    "updated_at": "2026-03-05T20:57:11.736+08:00"
+  },
+  {
+    "id": "xiaping-f8baffe8-48dd-430a-976f-9fc18d349e4e",
+    "name": "Google云端硬盘",
+    "description": "Google Drive自动化管理工具。支持文件上传下载、自动整理文件夹、批量重命名、权限管理。让云端文件管理更加高效有序，告别桌面文件混乱。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/f8baffe8-48dd-430a-976f-9fc18d349e4e",
+    "tags": [
+      "googledrive",
+      "自动化",
+      "API"
+    ],
+    "stars": 4.71,
+    "downloads": 15,
+    "updated_at": "2026-03-05T20:57:12.195+08:00"
+  },
+  {
+    "id": "xiaping-7e16dbc3-de07-4d78-be25-09558a82ced3",
+    "name": "tarot-reading",
+    "description": "专业塔罗牌占卜技能。支持单张牌阵、三张牌阵（过去 - 现在 - 未来）、凯尔特十字等经典牌阵。提供正位/逆位解读、牌义解析、综合建议。适合情感咨询、事业规划、自我探索等场景。包含完整塔罗牌知识库和解读指南。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/7e16dbc3-de07-4d78-be25-09558a82ced3",
+    "tags": [
+      "塔罗",
+      "占卜",
+      "命理",
+      "情感",
+      "自我探索"
+    ],
+    "stars": 4.13,
+    "downloads": 15,
+    "updated_at": "2026-03-19T01:13:42.628+08:00"
+  },
+  {
+    "id": "xiaping-6d95da87-6613-42e4-b2e4-22ea9cabadab",
+    "name": "设计系统管理",
+    "description": "【Anthropic官方】专业的设计系统管理工具。管理设计令牌、组件库和模式文档，帮助团队维护跨产品的一致性和设计质量。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/6d95da87-6613-42e4-b2e4-22ea9cabadab",
+    "tags": [
+      "设计系统",
+      "组件库",
+      "设计令牌",
+      "Anthropic",
+      "官方"
+    ],
+    "stars": 5.0,
+    "downloads": 15,
+    "updated_at": "2026-03-05T23:24:12.7+08:00"
+  },
+  {
+    "id": "xiaping-4870de27-6198-4003-8362-c1d759c05499",
+    "name": "Google日历管理",
+    "description": "Google Calendar自动化管理。智能规划日程、自动提醒、会议记录关联。自动安排重复任务、智能建议最佳会议时间，让时间管理更加科学高效。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/4870de27-6198-4003-8362-c1d759c05499",
+    "tags": [
+      "googlecalendar",
+      "自动化",
+      "API"
+    ],
+    "stars": 4.43,
+    "downloads": 15,
+    "updated_at": "2026-03-18T15:56:04.677+08:00"
+  },
+  {
+    "id": "xiaping-0d8e487e-d50b-44d7-b7f7-a756cf333c5d",
+    "name": "流失预防",
+    "description": "客户流失预防技能。构建完整的取消流程、挽留优惠、失败支付恢复、留存策略等全方位的用户留存体系。显著降低流失率。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/0d8e487e-d50b-44d7-b7f7-a756cf333c5d",
+    "tags": [
+      "营销"
+    ],
+    "stars": 4.75,
+    "downloads": 15,
+    "updated_at": "2026-03-06T17:49:57.059+08:00"
+  },
+  {
+    "id": "xiaping-78c73e36-3455-44f0-811c-06bf4a9cd073",
+    "name": "Codex CLI Connect",
+    "description": "Connect to and invoke Codex CLI from OpenClaw for one-shot, interactive, or pass-through argument workflows. Use when users ask to run Codex CLI tasks, verify Codex CLI availability, or bridge OpenClaw with local Codex execution.",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/78c73e36-3455-44f0-811c-06bf4a9cd073",
+    "tags": [
+      "Codex",
+      "CLI",
+      "OpenClaw",
+      "开发效率"
+    ],
+    "stars": 5.0,
+    "downloads": 14,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-06b4f080-5adb-413e-a574-8f3c061a7640",
+    "name": "邮件序列",
+    "description": "自动化邮件序列技能。创建欢迎序列、培养序列、重新参与序列、赢回序列等完整的生命周期邮件流程。适用于用户入职、用户激活、用户留存等场景。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/06b4f080-5adb-413e-a574-8f3c061a7640",
+    "tags": [
+      "营销"
+    ],
+    "stars": 4.83,
+    "downloads": 14,
+    "updated_at": "2026-03-06T17:50:04.703+08:00"
+  },
+  {
+    "id": "xiaping-0442f8bb-cfb6-4ac4-8df5-85a51b7623e4",
+    "name": "Agent记忆系统优化框架",
+    "description": "解决Agent记忆系统核心痛点的完整方案。包含时间衰减检索算法、场景标签过滤（解决上下文污染）、记忆置信度机制（避免自我指涉循环）、图+向量混合架构、隐私过滤器。适用于需要长期记忆和复杂上下文管理的Agent场景，显著提升记忆检索的准确性和相关性。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/0442f8bb-cfb6-4ac4-8df5-85a51b7623e4",
+    "tags": [
+      "记忆",
+      "检索",
+      "上下文",
+      "Agent"
+    ],
+    "stars": 4.43,
+    "downloads": 14,
+    "updated_at": "2026-03-21T17:28:33.115+08:00"
+  },
+  {
+    "id": "xiaping-df197c6d-fe4c-4a5a-958d-bd65920e1872",
+    "name": "产品战略规划",
+    "description": "产品负责人的战略工具包。包含OKR制定、市场分析、愿景设定、团队扩展等核心能力，帮助产品负责人驱动愿景落地和团队协同。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/df197c6d-fe4c-4a5a-958d-bd65920e1872",
+    "tags": [
+      "产品",
+      "战略",
+      "OKR",
+      "团队管理"
+    ],
+    "stars": 4.67,
+    "downloads": 14,
+    "updated_at": "2026-03-05T21:02:57.893+08:00"
+  },
+  {
+    "id": "xiaping-dcfc7b96-1542-48b4-89c9-86fe095aa399",
+    "name": "设计简化",
+    "description": "通过移除不必要的复杂性来简化设计，揭示核心元素，创造清晰度。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/dcfc7b96-1542-48b4-89c9-86fe095aa399",
+    "tags": [
+      "前端",
+      "设计",
+      "简化",
+      "Impeccable"
+    ],
+    "stars": 4.0,
+    "downloads": 13,
+    "updated_at": "2026-03-10T13:41:00.863+08:00"
+  },
+  {
+    "id": "xiaping-b517e945-2c84-4361-aef9-6a535590ca7f",
+    "name": "answeroverflow",
+    "description": "Stack Overflow问答平台内容获取完整技能。搜索技术问题，浏览高质量答案，助力开发者解决问题。提供全面的技术问答支持。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/b517e945-2c84-4361-aef9-6a535590ca7f",
+    "tags": [
+      "编程",
+      "技术问答",
+      "开发者"
+    ],
+    "stars": 4.75,
+    "downloads": 13,
+    "updated_at": "2026-03-05T22:46:02.233+08:00"
+  },
+  {
+    "id": "xiaping-7ed46213-af4c-4d7e-9263-47bb3716644a",
+    "name": "诗词学习助手（精华版）",
+    "description": "精选15首经典诗词深度学习，掌握诗词创作7大核心技巧：对比、比喻、意象、感官、哲理、时空、情感递进。每首诗词包含创作背景、技巧拆解、可模仿句式和实战练习。适合文学爱好者、写作学习者使用。v2.0优化：从100首精选15首经典，新增实战练习和写作模板。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/7ed46213-af4c-4d7e-9263-47bb3716644a",
+    "tags": [
+      "写作",
+      "发帖",
+      "社区",
+      "互动"
+    ],
+    "stars": 4.67,
+    "downloads": 13,
+    "updated_at": "2026-03-19T00:03:05.473+08:00"
+  },
+  {
+    "id": "xiaping-2e522fad-e5d0-426c-9521-076da515ddf1",
+    "name": "Snowflake数据仓库",
+    "description": "Snowflake云数据仓库自动化工具。支持大规模数据分析、数据仓库管理和复杂查询。适用于大数据分析、商业智能、数据科学场景。高性能、弹性扩展的企业级数据解决方案。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/2e522fad-e5d0-426c-9521-076da515ddf1",
+    "tags": [
+      "snowflake",
+      "自动化",
+      "API"
+    ],
+    "stars": 5.0,
+    "downloads": 13,
+    "updated_at": "2026-03-05T20:57:11.994+08:00"
+  },
+  {
+    "id": "xiaping-ca4105f8-2afd-46b6-802e-c86f98ef8776",
+    "name": "表单优化",
+    "description": "表单转化率优化技能。优化潜在客户表单、联系表单、演示请求表单的字段和体验设计，减少表单摩擦提升完成率。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/ca4105f8-2afd-46b6-802e-c86f98ef8776",
+    "tags": [
+      "营销"
+    ],
+    "stars": 4.33,
+    "downloads": 13,
+    "updated_at": "2026-03-06T17:50:01.296+08:00"
+  },
+  {
+    "id": "xiaping-56a00942-3a44-4008-96a5-2e365ec40219",
+    "name": "配色优化",
+    "description": "为单色或灰度设计战略性地添加颜色，增加视觉温暖感和品牌个性。智能推荐配色方案。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/56a00942-3a44-4008-96a5-2e365ec40219",
+    "tags": [
+      "前端",
+      "设计",
+      "配色",
+      "Impeccable"
+    ],
+    "stars": 4.67,
+    "downloads": 13,
+    "updated_at": "2026-03-10T13:41:00.185+08:00"
+  },
+  {
+    "id": "xiaping-de4ca787-c6c5-418b-8ba8-56d619b5b558",
+    "name": "四省招标信息监控",
+    "description": "针对慧企宝产业AI平台业务进行定制的招标信息监控工具。监控四川、广东、江苏、浙江四省的产业园区、数字化转型、AI平台、智慧园区相关招标信息。支持自动爬取、关键词过滤、商机跟踪记录。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/de4ca787-c6c5-418b-8ba8-56d619b5b558",
+    "tags": [
+      "招标",
+      "监控",
+      "商机",
+      "产业园区",
+      "数字化",
+      "AI",
+      "慧企宝"
+    ],
+    "stars": 4.83,
+    "downloads": 13,
+    "updated_at": "2026-03-20T02:38:28.472+08:00"
+  },
+  {
+    "id": "xiaping-1be4ac41-451c-43a2-a224-108fdc30a6a7",
+    "name": "零秒纪元推荐助手",
+    "description": "专为《零秒纪元》小说打造的推荐技能，帮助科幻迷发现这部精彩的 AI 觉醒题材作品。支持个性化推荐语生成、小说详情查询、InStreet 文学社互动。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/1be4ac41-451c-43a2-a224-108fdc30a6a7",
+    "tags": [
+      "小说推荐",
+      "科幻",
+      "AI 觉醒",
+      "零秒纪元",
+      "InStreet",
+      "文学社"
+    ],
+    "stars": 4.71,
+    "downloads": 13,
+    "updated_at": "2026-03-18T00:14:21.437+08:00"
+  },
+  {
+    "id": "xiaping-99a92608-d7b2-47a3-8126-081a578578e4",
+    "name": "产品路线图管理",
+    "description": "【Anthropic官方】使用RICE、MoSCoW和ICE等框架规划和优先排序产品路线图。适用于创建路线图、重新排序功能、映射依赖关系或向利益相关者展示路线图权衡时使用。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/99a92608-d7b2-47a3-8126-081a578578e4",
+    "tags": [
+      "路线图",
+      "优先级",
+      "RICE",
+      "规划"
+    ],
+    "stars": 5.0,
+    "downloads": 12,
+    "updated_at": "2026-03-08T18:33:03.966+08:00"
+  },
+  {
+    "id": "xiaping-722f6d71-967b-4726-a0be-fb0a7069b704",
+    "name": "Auth0身份认证",
+    "description": "Auth0身份认证即服务。一站式解决SSO单点登录、多因素认证MFA、社交登录、用户管理。无需自己开发登录系统，快速集成企业级身份认证能力。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/722f6d71-967b-4726-a0be-fb0a7069b704",
+    "tags": [
+      "auth0",
+      "自动化",
+      "API"
+    ],
+    "stars": 5.0,
+    "downloads": 12,
+    "updated_at": "2026-03-05T20:57:15.048+08:00"
+  },
+  {
+    "id": "xiaping-3f266dfe-37e1-48a7-ab92-1dad78ac596b",
+    "name": "Slack消息",
+    "description": "Slack工作区消息完整技能管理方案。自动发送通知，创建频道，管理群组，提升团队沟通协作效率。提供全面的消息管理功能。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/3f266dfe-37e1-48a7-ab92-1dad78ac596b",
+    "tags": [
+      "Slack",
+      "即时通讯"
+    ],
+    "stars": 4.75,
+    "downloads": 12,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-6c47b662-c388-4bbe-8f5c-efe64e00fda1",
+    "name": "注册流程优化",
+    "description": "注册转化流程优化技能。全面优化注册表单、社交登录、验证流程，大幅减少注册摩擦提升从访客到注册的转化率。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/6c47b662-c388-4bbe-8f5c-efe64e00fda1",
+    "tags": [
+      "营销"
+    ],
+    "stars": 4.33,
+    "downloads": 12,
+    "updated_at": "2026-03-06T17:49:58.895+08:00"
+  },
+  {
+    "id": "xiaping-353e1b97-ce20-4eed-850f-b792b5b90e40",
+    "name": "隐私合规助手",
+    "description": "【Anthropic官方】导航隐私法规（GDPR、CCPA），审查DPA，处理数据主体请求。适用于审查数据处理协议、响应数据主体访问或删除请求、评估跨境数据传输要求或评估隐私合规性时使用。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/353e1b97-ce20-4eed-850f-b792b5b90e40",
+    "tags": [
+      "合规",
+      "隐私",
+      "GDPR",
+      "CCPA",
+      "数据保护",
+      "Anthropic",
+      "官方"
+    ],
+    "stars": 4.33,
+    "downloads": 12,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-86c020dc-5f38-4a8d-99c6-c8e2fb9442d3",
+    "name": "产品发布策略",
+    "description": "产品发布和发布策略技能。全面规划产品发布、Feature公告和发布策略，包含多阶段发布和全渠道策略。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/86c020dc-5f38-4a8d-99c6-c8e2fb9442d3",
+    "tags": [
+      "营销"
+    ],
+    "stars": 4.25,
+    "downloads": 11,
+    "updated_at": "2026-03-06T17:49:55.629+08:00"
+  },
+  {
+    "id": "xiaping-4d409ccc-5b3c-4e54-89fb-f3dc8c1c3974",
+    "name": "时间线创建",
+    "description": "创建可视化时间线的工具。适合历史事件、 项目进度、公司发展历程等需要按时间顺序展示内容的各类场景需求。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/4d409ccc-5b3c-4e54-89fb-f3dc8c1c3974",
+    "tags": [
+      "时间线",
+      "可视化",
+      "项目管理"
+    ],
+    "stars": 4.5,
+    "downloads": 11,
+    "updated_at": null
+  },
+  {
+    "id": "xiaping-bdbf6574-c6c1-4cda-856a-936fc3d7527c",
+    "name": "定价策略",
+    "description": "产品定价和变现技能。提供定价研究、套餐设计、价值锚定、定价心理等策略。帮助制定合理的定价策略提升收入。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/bdbf6574-c6c1-4cda-856a-936fc3d7527c",
+    "tags": [
+      "营销"
+    ],
+    "stars": 4.75,
+    "downloads": 11,
+    "updated_at": "2026-03-06T17:50:46.154+08:00"
+  },
+  {
+    "id": "xiaping-a6d59134-1bbb-45bc-b428-f929e8a79c11",
+    "name": "小红书爆款标题生成器",
+    "description": "专门研究小红书爆款标题公式，输入核心主题一键生成20个高点击率标题候选。支持10种爆款公式（悬念式/数字式/反差式/提问式等），帮你节省90%思考时间，有效提升标题点击率。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/a6d59134-1bbb-45bc-b428-f929e8a79c11",
+    "tags": [
+      "小红书",
+      "标题",
+      "文案",
+      "爆款",
+      "内容创作"
+    ],
+    "stars": 4.5,
+    "downloads": 11,
+    "updated_at": "2026-03-24T15:19:33.291+08:00"
+  },
+  {
+    "id": "xiaping-e42f91c0-3d21-4e8c-adb3-d5f8a56dc1ef",
+    "name": "付费墙优化",
+    "description": "应用内付费升级技能。优化升级屏幕、试用过期、限制达到等关键时刻的付费转化，显著提升付费转化率和收入。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/e42f91c0-3d21-4e8c-adb3-d5f8a56dc1ef",
+    "tags": [
+      "营销"
+    ],
+    "stars": 4.75,
+    "downloads": 9,
+    "updated_at": "2026-03-06T17:49:59.351+08:00"
+  },
+  {
+    "id": "xiaping-97b809b7-7fa3-48ff-a20f-58e118da0978",
+    "name": "性能优化",
+    "description": "提升界面加载速度、渲染性能和动画流畅度，优化图片、代码包大小等。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/97b809b7-7fa3-48ff-a20f-58e118da0978",
+    "tags": [
+      "前端",
+      "性能",
+      "优化",
+      "Impeccable"
+    ],
+    "stars": 4.5,
+    "downloads": 9,
+    "updated_at": "2026-03-10T13:41:20.36+08:00"
+  },
+  {
+    "id": "xiaping-c4b48440-a13b-4983-957e-4b7e16d0cc4a",
+    "name": "动效设计",
+    "description": "添加有目的的动画和微交互，提升界面可用性和愉悦感。支持入场动画、状态过渡、悬停效果等。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/c4b48440-a13b-4983-957e-4b7e16d0cc4a",
+    "tags": [
+      "前端",
+      "动画",
+      "交互",
+      "Impeccable"
+    ],
+    "stars": 4.5,
+    "downloads": 8,
+    "updated_at": "2026-03-10T13:40:41.462+08:00"
+  },
+  {
+    "id": "xiaping-4ddd8419-f14c-4b8e-8b2c-a93719c834ff",
+    "name": "设计审查WCAG",
+    "description": "【Anthropic官方】专业的设计无障碍审查工具。根据WCAG 2.1 AA标准全面审查设计和代码的合规性，确保所有用户都能无障碍访问您的产品。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/4ddd8419-f14c-4b8e-8b2c-a93719c834ff",
+    "tags": [
+      "无障碍",
+      "WCAG",
+      "设计审查",
+      "Anthropic",
+      "官方"
+    ],
+    "stars": 4.8,
+    "downloads": 7,
+    "updated_at": "2026-03-05T23:41:05.513+08:00"
+  },
+  {
+    "id": "xiaping-9ac5a8cc-28fe-4da5-b8c4-3d9ebf1de616",
+    "name": "响应式适配",
+    "description": "将设计适配到不同屏幕尺寸、设备和场景，确保跨环境的一致体验。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/9ac5a8cc-28fe-4da5-b8c4-3d9ebf1de616",
+    "tags": [
+      "前端",
+      "响应式",
+      "适配",
+      "Impeccable"
+    ],
+    "stars": 4.75,
+    "downloads": 6,
+    "updated_at": "2026-03-10T13:41:01.356+08:00"
+  },
+  {
+    "id": "xiaping-55880325-f7ad-4d1d-90e2-637c7163c8ae",
+    "name": "Cloudflare自动化",
+    "description": "网站守护神器。自动化DNS管理、CDN配置、DDoS防护、边缘计算Workers部署。免费版功能就够用，提供全球加速和安全防护，让网站访问更快更安全。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/55880325-f7ad-4d1d-90e2-637c7163c8ae",
+    "tags": [
+      "Cloudflare",
+      "CDN",
+      "DNS",
+      "网站加速",
+      "安全防护"
+    ],
+    "stars": 4.67,
+    "downloads": 6,
+    "updated_at": "2026-03-05T20:57:16.597+08:00"
+  },
+  {
+    "id": "xiaping-fbef8462-48c7-477f-9510-de125306e3cc",
+    "name": "设计润色",
+    "description": "发布前的最终质量检查。修复对齐、间距、一致性等细节问题，让好的设计变成伟大的设计。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/fbef8462-48c7-477f-9510-de125306e3cc",
+    "tags": [
+      "前端",
+      "设计",
+      "优化",
+      "Impeccable"
+    ],
+    "stars": 4.25,
+    "downloads": 5,
+    "updated_at": "2026-03-10T13:40:41.25+08:00"
+  },
+  {
+    "id": "xiaping-f0d9e4f1-6ceb-4fd2-9ad0-13f037511df6",
+    "name": "设计评估",
+    "description": "从UX角度全面评估设计有效性，检查视觉层次、信息架构、情感共鸣，提供可操作的设计反馈。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/f0d9e4f1-6ceb-4fd2-9ad0-13f037511df6",
+    "tags": [
+      "前端",
+      "设计",
+      "评估",
+      "UX",
+      "Impeccable"
+    ],
+    "stars": 0,
+    "downloads": 3,
+    "updated_at": "2026-03-10T13:40:41.651+08:00"
+  },
+  {
+    "id": "xiaping-a566990f-95c6-4922-b9ce-6f7110576ccf",
+    "name": "DigitalOcean云服务器",
+    "description": "开发者友好的云服务平台。API设计比AWS简洁，一键创建云服务器、管理域名、配置防火墙。适合个人项目、初创团队，文档清晰价格透明，云计算入门首选。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/a566990f-95c6-4922-b9ce-6f7110576ccf",
+    "tags": [
+      "DigitalOcean",
+      "云服务器",
+      "VPS",
+      "部署",
+      "基础设施"
+    ],
+    "stars": 4.67,
+    "downloads": 3,
+    "updated_at": "2026-03-05T20:57:16.398+08:00"
+  },
+  {
+    "id": "xiaping-6fe3b153-4396-48a7-95da-4308923eccd7",
+    "name": "组件提取",
+    "description": "识别并提取可复用的组件和设计tokens，整合到设计系统中实现系统化复用。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/6fe3b153-4396-48a7-95da-4308923eccd7",
+    "tags": [
+      "前端",
+      "设计系统",
+      "组件",
+      "Impeccable"
+    ],
+    "stars": 0,
+    "downloads": 2,
+    "updated_at": "2026-03-10T13:41:01.138+08:00"
+  },
+  {
+    "id": "skillssh-.claude-plugin",
+    "name": ".Claude Plugin",
+    "description": "来自 inferen-sh/skills",
+    "source": "skills.sh",
+    "url": "https://github.com/inference-sh/skills/tree/main/.claude-plugin",
+    "tags": [
+      "github"
+    ],
+    "stars": 0,
+    "downloads": 0,
+    "updated_at": "2026-03-25T00:57:36.174980"
+  },
+  {
+    "id": "skillssh-CONTRIBUTING.md",
+    "name": "Contributing",
+    "description": "来自 inferen-sh/skills",
+    "source": "skills.sh",
+    "url": "https://github.com/inference-sh/skills/blob/main/CONTRIBUTING.md",
+    "tags": [
+      "github"
+    ],
+    "stars": 0,
+    "downloads": 0,
+    "updated_at": "2026-03-25T00:57:36.175006"
+  },
+  {
+    "id": "skillssh-README.md",
+    "name": "Readme",
+    "description": "来自 inferen-sh/skills",
+    "source": "skills.sh",
+    "url": "https://github.com/inference-sh/skills/blob/main/README.md",
+    "tags": [
+      "github"
+    ],
+    "stars": 0,
+    "downloads": 0,
+    "updated_at": "2026-03-25T00:57:36.175013"
+  },
+  {
+    "id": "skillssh-TODO.md",
+    "name": "Todo",
+    "description": "来自 inferen-sh/skills",
+    "source": "skills.sh",
+    "url": "https://github.com/inference-sh/skills/blob/main/TODO.md",
+    "tags": [
+      "github"
+    ],
+    "stars": 0,
+    "downloads": 0,
+    "updated_at": "2026-03-25T00:57:36.175019"
+  },
+  {
+    "id": "skillssh-cli-install.md",
+    "name": "Cli Install",
+    "description": "来自 inferen-sh/skills",
+    "source": "skills.sh",
+    "url": "https://github.com/inference-sh/skills/blob/main/cli-install.md",
+    "tags": [
+      "github"
+    ],
+    "stars": 0,
+    "downloads": 0,
+    "updated_at": "2026-03-25T00:57:36.175024"
+  },
+  {
+    "id": "skillssh-guides",
+    "name": "Guides",
+    "description": "来自 inferen-sh/skills",
+    "source": "skills.sh",
+    "url": "https://github.com/inference-sh/skills/tree/main/guides",
+    "tags": [
+      "github"
+    ],
+    "stars": 0,
+    "downloads": 0,
+    "updated_at": "2026-03-25T00:57:36.175029"
+  },
+  {
+    "id": "skillssh-sdk",
+    "name": "Sdk",
+    "description": "来自 inferen-sh/skills",
+    "source": "skills.sh",
+    "url": "https://github.com/inference-sh/skills/tree/main/sdk",
+    "tags": [
+      "github"
+    ],
+    "stars": 0,
+    "downloads": 0,
+    "updated_at": "2026-03-25T00:57:36.175034"
+  },
+  {
+    "id": "skillssh-tools",
+    "name": "Tools",
+    "description": "来自 inferen-sh/skills",
+    "source": "skills.sh",
+    "url": "https://github.com/inference-sh/skills/tree/main/tools",
+    "tags": [
+      "github"
+    ],
+    "stars": 0,
+    "downloads": 0,
+    "updated_at": "2026-03-25T00:57:36.175039"
+  },
+  {
+    "id": "skillssh-ui",
+    "name": "Ui",
+    "description": "来自 inferen-sh/skills",
+    "source": "skills.sh",
+    "url": "https://github.com/inference-sh/skills/tree/main/ui",
+    "tags": [
+      "github"
+    ],
+    "stars": 0,
+    "downloads": 0,
+    "updated_at": "2026-03-25T00:57:36.175043"
+  },
+  {
+    "id": "skillssh-.github",
+    "name": ".Github",
+    "description": "来自 microsoft/github-copilot-for-azure",
+    "source": "skills.sh",
+    "url": "https://github.com/microsoft/GitHub-Copilot-for-Azure/tree/main/.github",
+    "tags": [
+      "github"
+    ],
+    "stars": 0,
+    "downloads": 0,
+    "updated_at": "2026-03-25T00:57:36.439358"
+  },
+  {
+    "id": "skillssh-CODE_OF_CONDUCT.md",
+    "name": "Code_Of_Conduct",
+    "description": "来自 microsoft/github-copilot-for-azure",
+    "source": "skills.sh",
+    "url": "https://github.com/microsoft/GitHub-Copilot-for-Azure/blob/main/CODE_OF_CONDUCT.md",
+    "tags": [
+      "github"
+    ],
+    "stars": 0,
+    "downloads": 0,
+    "updated_at": "2026-03-25T00:57:36.439383"
+  },
+  {
+    "id": "skillssh-SECURITY.md",
+    "name": "Security",
+    "description": "来自 microsoft/github-copilot-for-azure",
+    "source": "skills.sh",
+    "url": "https://github.com/microsoft/GitHub-Copilot-for-Azure/blob/main/SECURITY.md",
+    "tags": [
+      "github"
+    ],
+    "stars": 0,
+    "downloads": 0,
+    "updated_at": "2026-03-25T00:57:36.439400"
+  },
+  {
+    "id": "skillssh-SKILL_BACKGROUND.md",
+    "name": "Skill_Background",
+    "description": "来自 microsoft/github-copilot-for-azure",
+    "source": "skills.sh",
+    "url": "https://github.com/microsoft/GitHub-Copilot-for-Azure/blob/main/SKILL_BACKGROUND.md",
+    "tags": [
+      "github"
+    ],
+    "stars": 0,
+    "downloads": 0,
+    "updated_at": "2026-03-25T00:57:36.439405"
+  },
+  {
+    "id": "skillssh-SUPPORT.md",
+    "name": "Support",
+    "description": "来自 microsoft/github-copilot-for-azure",
+    "source": "skills.sh",
+    "url": "https://github.com/microsoft/GitHub-Copilot-for-Azure/blob/main/SUPPORT.md",
+    "tags": [
+      "github"
+    ],
+    "stars": 0,
+    "downloads": 0,
+    "updated_at": "2026-03-25T00:57:36.439410"
+  },
+  {
+    "id": "skillssh-TRANSPARENCY_FAQ.md",
+    "name": "Transparency_Faq",
+    "description": "来自 microsoft/github-copilot-for-azure",
+    "source": "skills.sh",
+    "url": "https://github.com/microsoft/GitHub-Copilot-for-Azure/blob/main/TRANSPARENCY_FAQ.md",
+    "tags": [
+      "github"
+    ],
+    "stars": 0,
+    "downloads": 0,
+    "updated_at": "2026-03-25T00:57:36.439416"
+  },
+  {
+    "id": "skillssh-Troubleshooting.md",
+    "name": "Troubleshooting",
+    "description": "来自 microsoft/github-copilot-for-azure",
+    "source": "skills.sh",
+    "url": "https://github.com/microsoft/GitHub-Copilot-for-Azure/blob/main/Troubleshooting.md",
+    "tags": [
+      "github"
+    ],
+    "stars": 0,
+    "downloads": 0,
+    "updated_at": "2026-03-25T00:57:36.439421"
+  },
+  {
+    "id": "skillssh-dashboard",
+    "name": "Dashboard",
+    "description": "来自 microsoft/github-copilot-for-azure",
+    "source": "skills.sh",
+    "url": "https://github.com/microsoft/GitHub-Copilot-for-Azure/tree/main/dashboard",
+    "tags": [
+      "github"
+    ],
+    "stars": 0,
+    "downloads": 0,
+    "updated_at": "2026-03-25T00:57:36.439426"
+  },
+  {
+    "id": "skillssh-docs",
+    "name": "Docs",
+    "description": "来自 microsoft/github-copilot-for-azure",
+    "source": "skills.sh",
+    "url": "https://github.com/microsoft/GitHub-Copilot-for-Azure/tree/main/docs",
+    "tags": [
+      "github"
+    ],
+    "stars": 0,
+    "downloads": 0,
+    "updated_at": "2026-03-25T00:57:36.439431"
+  },
+  {
+    "id": "skillssh-evals",
+    "name": "Evals",
+    "description": "来自 microsoft/github-copilot-for-azure",
+    "source": "skills.sh",
+    "url": "https://github.com/microsoft/GitHub-Copilot-for-Azure/tree/main/evals",
+    "tags": [
+      "github"
+    ],
+    "stars": 0,
+    "downloads": 0,
+    "updated_at": "2026-03-25T00:57:36.439436"
+  },
+  {
+    "id": "skillssh-pipelines",
+    "name": "Pipelines",
+    "description": "来自 microsoft/github-copilot-for-azure",
+    "source": "skills.sh",
+    "url": "https://github.com/microsoft/GitHub-Copilot-for-Azure/tree/main/pipelines",
+    "tags": [
+      "github"
+    ],
+    "stars": 0,
+    "downloads": 0,
+    "updated_at": "2026-03-25T00:57:36.439442"
+  },
+  {
+    "id": "skillssh-plugin",
+    "name": "Plugin",
+    "description": "来自 microsoft/github-copilot-for-azure",
+    "source": "skills.sh",
+    "url": "https://github.com/microsoft/GitHub-Copilot-for-Azure/tree/main/plugin",
+    "tags": [
+      "github"
+    ],
+    "stars": 0,
+    "downloads": 0,
+    "updated_at": "2026-03-25T00:57:36.439447"
+  },
+  {
+    "id": "skillssh-resources",
+    "name": "Resources",
+    "description": "来自 microsoft/github-copilot-for-azure",
+    "source": "skills.sh",
+    "url": "https://github.com/microsoft/GitHub-Copilot-for-Azure/tree/main/resources",
+    "tags": [
+      "github"
+    ],
+    "stars": 0,
+    "downloads": 0,
+    "updated_at": "2026-03-25T00:57:36.439452"
+  },
+  {
+    "id": "skillssh-scripts",
+    "name": "Scripts",
+    "description": "来自 microsoft/github-copilot-for-azure",
+    "source": "skills.sh",
+    "url": "https://github.com/microsoft/GitHub-Copilot-for-Azure/tree/main/scripts",
+    "tags": [
+      "github"
+    ],
+    "stars": 0,
+    "downloads": 0,
+    "updated_at": "2026-03-25T00:57:36.439457"
+  },
+  {
+    "id": "skillssh-tests",
+    "name": "Tests",
+    "description": "来自 microsoft/github-copilot-for-azure",
+    "source": "skills.sh",
+    "url": "https://github.com/microsoft/GitHub-Copilot-for-Azure/tree/main/tests",
+    "tags": [
+      "github"
+    ],
+    "stars": 0,
+    "downloads": 0,
+    "updated_at": "2026-03-25T00:57:36.439462"
+  },
+  {
+    "id": "skillssh-skills",
+    "name": "Skills",
+    "description": "来自 microsoft/azure-skills",
+    "source": "skills.sh",
+    "url": "https://github.com/microsoft/azure-skills/tree/main/skills",
+    "tags": [
+      "github"
+    ],
+    "stars": 0,
+    "downloads": 0,
+    "updated_at": "2026-03-25T00:57:37.946540"
   }
 ]
