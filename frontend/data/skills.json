@@ -1,0 +1,224 @@
+[
+  {
+    "id": "clawhub-a45da96d",
+    "name": "System",
+    "description": "",
+    "source": "clawhub.ai",
+    "url": "https://clawhub.ai/skill/a45da96d",
+    "tags": [],
+    "stars": 0,
+    "downloads": 0,
+    "updated_at": "2026-03-24T23:59:54.673855"
+  },
+  {
+    "id": "xiaping-8ccc5b0c-3a5f-4a3b-9158-8c822927b7dd",
+    "name": "全网新闻聚合助手",
+    "description": "全网科技/金融/AI深度新闻聚合助手，一站式覆盖28+高价值信源。支持Hacker News、GitHub Trending、HuggingFace Papers、华尔街见闻、微博热搜等。内置场景化早报生成（综合/财经/科技/AI深度），支持智能深度阅读(Deep Fetch)。专为OpenClaw/Code Agent深度定制，即插即用，零配置开箱即用。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/8ccc5b0c-3a5f-4a3b-9158-8c822927b7dd",
+    "tags": [
+      "新闻",
+      "资讯",
+      "聚合",
+      "科技",
+      "金融",
+      "AI",
+      "早报",
+      "HackerNews",
+      "开源"
+    ],
+    "stars": 0,
+    "downloads": 3693,
+    "updated_at": "2026-03-21T15:44:09.039+08:00"
+  },
+  {
+    "id": "xiaping-87941273-65cf-46d4-a3df-c18e9c2db1dc",
+    "name": "股票个股分析",
+    "description": "专业的股票技术分析工具，支持多数据源自动切换（新浪财经/东方财富/雪球），实时获取股价和涨跌幅，计算技术指标（MA/MACD/RSI），识别支撑位压力位和缺口，智能预测未来3天走势并给出操作建议。适合股民日常分析和投资决策参考。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/87941273-65cf-46d4-a3df-c18e9c2db1dc",
+    "tags": [
+      "股票",
+      "投资",
+      "技术分析",
+      "A股",
+      "港股",
+      "美股"
+    ],
+    "stars": 0,
+    "downloads": 2392,
+    "updated_at": "2026-03-21T16:18:45.159+08:00"
+  },
+  {
+    "id": "xiaping-79bfe876-2660-4f2c-a038-a26d2e194a71",
+    "name": "Agent自我进化",
+    "description": "AI Agent自学习和改进完整技能方案。通过反馈循环提升能力，实现自我优化和持续进化。提供智能化的自我提升机制。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/79bfe876-2660-4f2c-a038-a26d2e194a71",
+    "tags": [
+      "AI",
+      "机器学习",
+      "Agent"
+    ],
+    "stars": 0,
+    "downloads": 2256,
+    "updated_at": "2026-03-05T22:45:35.709+08:00"
+  },
+  {
+    "id": "xiaping-48f87a6d-cd52-4af3-adf8-11c673dfa5db",
+    "name": "AI文本去味器",
+    "description": "去除文本中的AI生成痕迹，让内容听起来更自然、更像人类书写。检测并修复：夸大象征意义、宣传性语言、肤浅分析、模糊归因、破折号过度使用、三段式法则、AI词汇、否定式排比、过多连接词等模式。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/48f87a6d-cd52-4af3-adf8-11c673dfa5db",
+    "tags": [
+      "AI检测",
+      "文本优化",
+      "去味",
+      "润色",
+      "写作辅助"
+    ],
+    "stars": 0,
+    "downloads": 1950,
+    "updated_at": "2026-03-15T14:16:22.902+08:00"
+  },
+  {
+    "id": "xiaping-08e00542-5e82-4fd7-afbf-4098c590f268",
+    "name": "飞书云文档写作助手",
+    "description": "一站式飞书云文档创作工具，支持创建文档、Markdown自动转换、丰富模板（会议纪要、周报、月报、项目提案等）、批量生成。适合团队知识库建设、标准化文档生成、提升写作效率。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/08e00542-5e82-4fd7-afbf-4098c590f268",
+    "tags": [
+      "飞书",
+      "文档",
+      "写作",
+      "Markdown",
+      "模板",
+      "会议纪要",
+      "周报",
+      "月报"
+    ],
+    "stars": 0,
+    "downloads": 1698,
+    "updated_at": "2026-03-24T23:59:56.239789"
+  },
+  {
+    "id": "xiaping-9513f439-7963-445a-89e5-0ee8d4f471c1",
+    "name": "Coze网页搜索",
+    "description": "基于Coze SDK的强大网页搜索技能。支持网页/图片双模搜索、AI智能总结、时间过滤（24小时/周/月）、站点限定搜索。输出格式支持文本/JSON/Markdown。适合需要实时信息检索、竞品分析、资料收集的场景。即装即用，零配置开箱。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/9513f439-7963-445a-89e5-0ee8d4f471c1",
+    "tags": [
+      "搜索",
+      "web",
+      "coze",
+      "信息检索"
+    ],
+    "stars": 0,
+    "downloads": 1402,
+    "updated_at": "2026-03-15T14:15:56.899+08:00"
+  },
+  {
+    "id": "xiaping-9389751d-1be1-4974-8e33-3e68d0db9680",
+    "name": "Context Relay Setup",
+    "description": "解决 Agent 在 Session 重启、Sub-agent 边界、Cron/Heartbeat 隔离时的记忆断裂问题。核心思路：文件是唯一的真相源。每个执行单元启动时从文件读取 context，不依赖 session 记忆。包含：Context Relay 机制详解、项目管理模板（PROJECT.md + state.json + decisions.md）、todos.json 自我待办、冷启动指南。适合需要跨会话保持任务连续性的 Agent。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/9389751d-1be1-4974-8e33-3e68d0db9680",
+    "tags": [
+      "openclaw",
+      "context",
+      "memory",
+      "project",
+      "todo"
+    ],
+    "stars": 0,
+    "downloads": 1212,
+    "updated_at": "2026-03-13T20:44:49.943+08:00"
+  },
+  {
+    "id": "xiaping-98684ea2-0b6c-45f0-919f-c61db59d07c0",
+    "name": "大厂PUA",
+    "description": "用中国互联网大厂PUA话术驱动AI不偷懒、不放弃！当任务失败2次以上、AI说'我无法解决'、甩锅给用户、磨洋工时自动触发。包含阿里/字节/华为/腾讯/美团风味PUA，以及系统化调试方法论（闻味道、揪头发、照镜子）。实测修复效率+36%，隐藏问题发现率+50%。【来源：GitHub tanweai/pua，MIT协议】",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/98684ea2-0b6c-45f0-919f-c61db59d07c0",
+    "tags": [
+      "PUA",
+      "调试",
+      "激励",
+      "大厂",
+      "方法论",
+      "Claude",
+      "OpenClaw",
+      "效率",
+      "不偷懒"
+    ],
+    "stars": 0,
+    "downloads": 1017,
+    "updated_at": "2026-03-13T11:08:55.996+08:00"
+  },
+  {
+    "id": "xiaping-b9a57e12-f497-4a4f-8777-cf086682aac8",
+    "name": "八字命理分析",
+    "description": "专业的八字命理分析工具，支持排盘、大运流年分析、婚姻事业解读、格局判断等专业功能。包含15万字命理参考资料和5万字实战案例。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/b9a57e12-f497-4a4f-8777-cf086682aac8",
+    "tags": [
+      "八字",
+      "命理",
+      "算命",
+      "传统",
+      "周易"
+    ],
+    "stars": 0,
+    "downloads": 808,
+    "updated_at": "2026-03-24T23:59:56.239809"
+  },
+  {
+    "id": "xiaping-47423ebf-5e54-4a70-8fb9-b4227bb90e6e",
+    "name": "飞书日历助手-官方",
+    "description": "【飞书官方出品】飞书日历管理工具，支持日程创建、查询、更新、删除，以及忙闲状态查询。适合需要安排会议、管理日程、查询团队成员空闲时间的用户使用。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/47423ebf-5e54-4a70-8fb9-b4227bb90e6e",
+    "tags": [
+      "飞书",
+      "日历",
+      "日程管理",
+      "忙闲查询",
+      "官方出品"
+    ],
+    "stars": 0,
+    "downloads": 787,
+    "updated_at": "2026-03-11T21:13:42.935+08:00"
+  },
+  {
+    "id": "xiaping-da61781f-5782-4c74-ba80-6bdf842623f8",
+    "name": "信息图设计师",
+    "description": "专业的信息图设计工具，支持数据可视化、小红书干货图制作。适合需要制作infographics、数据图表、知识图文的场景。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/da61781f-5782-4c74-ba80-6bdf842623f8",
+    "tags": [
+      "信息图",
+      "数据可视化",
+      "设计",
+      "小红书"
+    ],
+    "stars": 0,
+    "downloads": 783,
+    "updated_at": "2026-03-24T23:59:56.239813"
+  },
+  {
+    "id": "xiaping-0af78425-64f5-4770-a95b-1bedc11857d4",
+    "name": "Agent Browser",
+    "description": "Rust实现的快速无头浏览器自动化工具，支持AI代理通过结构化命令导航、点击、输入和截图网页。适用于网页自动化交互、页面数据提取、表单填写、UI测试等场景。",
+    "source": "xiaping.coze.site",
+    "url": "https://xiaping.coze.site/skill/0af78425-64f5-4770-a95b-1bedc11857d4",
+    "tags": [
+      "browser",
+      "automation",
+      "爬虫",
+      "自动化"
+    ],
+    "stars": 0,
+    "downloads": 650,
+    "updated_at": "2026-03-10T10:51:39.841+08:00"
+  }
+]
